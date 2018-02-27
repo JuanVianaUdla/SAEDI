@@ -1,0 +1,32 @@
+E:\JuanMa Viana\Documents\SAEDI\Sembrar_FINAL\CapaDatos\bin\Release\CapaDatos.dll.config
+E:\JuanMa Viana\Documents\SAEDI\Sembrar_FINAL\CapaDatos\bin\Release\CapaDatos.dll
+E:\JuanMa Viana\Documents\SAEDI\Sembrar_FINAL\CapaDatos\bin\Release\CapaDatos.pdb
+E:\JuanMa Viana\Documents\SAEDI\Sembrar_FINAL\CapaDatos\bin\Release\CapaNegocio.dll
+E:\JuanMa Viana\Documents\SAEDI\Sembrar_FINAL\CapaDatos\bin\Release\CapaNegocio.pdb
+E:\JuanMa Viana\Documents\SAEDI\Sembrar_FINAL\CapaDatos\obj\Release\CapaDatos.csprojResolveAssemblyReference.cache
+E:\JuanMa Viana\Documents\SAEDI\Sembrar_FINAL\CapaDatos\obj\Release\CapaDatos.dll
+E:\JuanMa Viana\Documents\SAEDI\Sembrar_FINAL\CapaDatos\obj\Release\CapaDatos.pdb
+C:\Users\Papo\Documents\SAEDI\CapaDatos\bin\Release\CapaDatos.dll.config
+C:\Users\Papo\Documents\SAEDI\CapaDatos\bin\Release\CapaDatos.dll
+C:\Users\Papo\Documents\SAEDI\CapaDatos\bin\Release\CapaDatos.pdb
+C:\Users\Papo\Documents\SAEDI\CapaDatos\bin\Release\CapaNegocio.dll
+C:\Users\Papo\Documents\SAEDI\CapaDatos\bin\Release\CapaNegocio.pdb
+C:\Users\Papo\Documents\SAEDI\CapaDatos\obj\Release\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Papo\Documents\SAEDI\CapaDatos\obj\Release\CapaDatos.dll
+C:\Users\Papo\Documents\SAEDI\CapaDatos\obj\Release\CapaDatos.pdb
+C:\Users\carme\Documents\SAEDI\Febrero 2018\SAEDI\CapaDatos\bin\Release\CapaDatos.dll.config
+C:\Users\carme\Documents\SAEDI\Febrero 2018\SAEDI\CapaDatos\bin\Release\CapaDatos.dll
+C:\Users\carme\Documents\SAEDI\Febrero 2018\SAEDI\CapaDatos\bin\Release\CapaDatos.pdb
+C:\Users\carme\Documents\SAEDI\Febrero 2018\SAEDI\CapaDatos\bin\Release\CapaNegocio.dll
+C:\Users\carme\Documents\SAEDI\Febrero 2018\SAEDI\CapaDatos\bin\Release\CapaNegocio.pdb
+C:\Users\carme\Documents\SAEDI\Febrero 2018\SAEDI\CapaDatos\obj\Release\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\carme\Documents\SAEDI\Febrero 2018\SAEDI\CapaDatos\obj\Release\CapaDatos.dll
+C:\Users\carme\Documents\SAEDI\Febrero 2018\SAEDI\CapaDatos\obj\Release\CapaDatos.pdb
+E:\JuanMaViana\Documentos\SAEDI_FINAL\CapaDatos\bin\Release\CapaDatos.dll.config
+E:\JuanMaViana\Documentos\SAEDI_FINAL\CapaDatos\bin\Release\CapaDatos.dll
+E:\JuanMaViana\Documentos\SAEDI_FINAL\CapaDatos\bin\Release\CapaDatos.pdb
+E:\JuanMaViana\Documentos\SAEDI_FINAL\CapaDatos\bin\Release\CapaNegocio.dll
+E:\JuanMaViana\Documentos\SAEDI_FINAL\CapaDatos\bin\Release\CapaNegocio.pdb
+E:\JuanMaViana\Documentos\SAEDI_FINAL\CapaDatos\obj\Release\CapaDatos.csprojResolveAssemblyReference.cache
+E:\JuanMaViana\Documentos\SAEDI_FINAL\CapaDatos\obj\Release\CapaDatos.dll
+E:\JuanMaViana\Documentos\SAEDI_FINAL\CapaDatos\obj\Release\CapaDatos.pdb

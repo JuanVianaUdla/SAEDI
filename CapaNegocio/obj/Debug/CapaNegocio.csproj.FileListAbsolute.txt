@@ -1,0 +1,130 @@
+C:\Users\Jessie\Documents\Visual Studio 2012\Projects\Sembrar\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Jessie\Documents\Visual Studio 2012\Projects\Sembrar\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Jessie\Documents\Visual Studio 2012\Projects\Sembrar\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Jessie\Documents\Visual Studio 2012\Projects\Sembrar\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\lenin_000\Downloads\Sembrar\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\lenin_000\Downloads\Sembrar\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\lenin_000\Downloads\Sembrar\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\lenin_000\Downloads\Sembrar\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\lenin_000\Downloads\Sembrar\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\ProyectoSembrar-2016\SAEDI_UDLA-master\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Daniel\Desktop\ProyectoSembrar-2016\SAEDI_UDLA-master\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Daniel\Desktop\ProyectoSembrar-2016\SAEDI_UDLA-master\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Daniel\Desktop\ProyectoSembrar-2016\SAEDI_UDLA-master\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\lenguajes II\SAEDI_UDLA-master-2016-07-19 - Copy\SAEDI_UDLA-master\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\lenguajes II\SAEDI_UDLA-master-2016-07-19 - Copy\SAEDI_UDLA-master\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\lenguajes II\SAEDI_UDLA-master-2016-07-19 - Copy\SAEDI_UDLA-master\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\lenguajes II\SAEDI_UDLA-master-2016-07-19 - Copy\SAEDI_UDLA-master\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\lenguajes II\SAEDI_UDLA-master-2016-07-19 - Copy\SAEDI_UDLA-master\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\carme\Documents\SAEDI\SAEDI_UDLA-Espinosa-Rea-Cuestionarios-AsistenciaLogros\SAEDI_UDLA-master\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\carme\Documents\SAEDI\SAEDI_UDLA-Espinosa-Rea-Cuestionarios-AsistenciaLogros\SAEDI_UDLA-master\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\carme\Documents\SAEDI\SAEDI_UDLA-Espinosa-Rea-Cuestionarios-AsistenciaLogros\SAEDI_UDLA-master\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\carme\Documents\SAEDI\SAEDI_UDLA-Espinosa-Rea-Cuestionarios-AsistenciaLogros\SAEDI_UDLA-master\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\OneDrive - Universidad de Las Américas\Universidad\6to Semestre\Sembrar\SAEDI_UDLA_03-05-2017_PatricioEspinosa\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\OneDrive - Universidad de Las Américas\Universidad\6to Semestre\Sembrar\SAEDI_UDLA_03-05-2017_PatricioEspinosa\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\OneDrive - Universidad de Las Américas\Universidad\6to Semestre\Sembrar\SAEDI_UDLA_03-05-2017_PatricioEspinosa\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+D:\OneDrive - Universidad de Las Américas\Universidad\6to Semestre\Sembrar\SAEDI_UDLA_03-05-2017_PatricioEspinosa\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\OneDrive - Universidad de Las Américas\Universidad\6to Semestre\Sembrar\SAEDI_UDLA_03-05-2017_PatricioEspinosa\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\carme\Desktop\PATRICIA\SAEDI_UDLA_04-05-2017_JuanViana\SAEDI_UDLA_04-05-2017_JuanViana\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\carme\Desktop\PATRICIA\SAEDI_UDLA_04-05-2017_JuanViana\SAEDI_UDLA_04-05-2017_JuanViana\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\carme\Desktop\PATRICIA\SAEDI_UDLA_04-05-2017_JuanViana\SAEDI_UDLA_04-05-2017_JuanViana\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\carme\Desktop\PATRICIA\SAEDI_UDLA_04-05-2017_JuanViana\SAEDI_UDLA_04-05-2017_JuanViana\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\SAEDI_UDLA_v2.0\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\SAEDI_UDLA_v2.0\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\SAEDI_UDLA_v2.0\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\SAEDI_UDLA_v2.0\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\SAEDI_UDLA_v2.0\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\OneDrive - Universidad de Las Américas\Universidad\6to Semestre\Sembrar\SAEDI_UDLA_v2.1\SAEDI_UDLA_v2.0\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\OneDrive - Universidad de Las Américas\Universidad\6to Semestre\Sembrar\SAEDI_UDLA_v2.1\SAEDI_UDLA_v2.0\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\OneDrive - Universidad de Las Américas\Universidad\6to Semestre\Sembrar\SAEDI_UDLA_v2.1\SAEDI_UDLA_v2.0\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+D:\OneDrive - Universidad de Las Américas\Universidad\6to Semestre\Sembrar\SAEDI_UDLA_v2.1\SAEDI_UDLA_v2.0\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\OneDrive - Universidad de Las Américas\Universidad\6to Semestre\Sembrar\SAEDI_UDLA_v2.1\SAEDI_UDLA_v2.0\CapaNegocio\obj\Debug\CapaNegocio.pdb
+E:\viana\Escritorio\SAEDI_UDLA_v2.0\CapaNegocio\bin\Debug\CapaNegocio.dll
+E:\viana\Escritorio\SAEDI_UDLA_v2.0\CapaNegocio\bin\Debug\CapaNegocio.pdb
+E:\viana\Escritorio\SAEDI_UDLA_v2.0\CapaNegocio\obj\Debug\CapaNegocio.dll
+E:\viana\Escritorio\SAEDI_UDLA_v2.0\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Papo\Documents\Visual Studio 2015\Projects\Sembrar Estable\defawefwea\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Papo\Documents\Visual Studio 2015\Projects\Sembrar Estable\defawefwea\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Papo\Documents\Visual Studio 2015\Projects\Sembrar Estable\defawefwea\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Papo\Documents\Visual Studio 2015\Projects\Sembrar Estable\defawefwea\CapaNegocio\obj\Debug\CapaNegocio.pdb
+E:\Documentos\SAEDI_V2.0\SembrarEstable\CapaNegocio\bin\Debug\CapaNegocio.dll
+E:\Documentos\SAEDI_V2.0\SembrarEstable\CapaNegocio\bin\Debug\CapaNegocio.pdb
+E:\Documentos\SAEDI_V2.0\SembrarEstable\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+E:\Documentos\SAEDI_V2.0\SembrarEstable\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+E:\Documentos\SAEDI_V2.0\SembrarEstable\CapaNegocio\obj\Debug\CapaNegocio.dll
+E:\Documentos\SAEDI_V2.0\SembrarEstable\CapaNegocio\obj\Debug\CapaNegocio.pdb
+E:\Documentos\SAEDI_V3.0\SembrarEstable\CapaNegocio\bin\Debug\CapaNegocio.dll
+E:\Documentos\SAEDI_V3.0\SembrarEstable\CapaNegocio\bin\Debug\CapaNegocio.pdb
+E:\Documentos\SAEDI_V3.0\SembrarEstable\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+E:\Documentos\SAEDI_V3.0\SembrarEstable\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+E:\Documentos\SAEDI_V3.0\SembrarEstable\CapaNegocio\obj\Debug\CapaNegocio.dll
+E:\Documentos\SAEDI_V3.0\SembrarEstable\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\carme\Documents\SAEDI\SAEDI_V3.2\SembrarEstable\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\carme\Documents\SAEDI\SAEDI_V3.2\SembrarEstable\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\carme\Documents\SAEDI\SAEDI_V3.2\SembrarEstable\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\carme\Documents\SAEDI\SAEDI_V3.2\SembrarEstable\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\patri\Desktop\Sembrar\SembrarEstable 2.1\SembrarEstable\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\patri\Desktop\Sembrar\SembrarEstable 2.1\SembrarEstable\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\patri\Desktop\Sembrar\SembrarEstable 2.1\SembrarEstable\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\patri\Desktop\Sembrar\SembrarEstable 2.1\SembrarEstable\CapaNegocio\obj\Debug\CapaNegocio.pdb
+E:\JuanMaViana\Documentos\SAEDI\Sembrar 4.3\Sembrar4.3\SembrarEstable 4.3\CapaNegocio\bin\Debug\CapaNegocio.dll
+E:\JuanMaViana\Documentos\SAEDI\Sembrar 4.3\Sembrar4.3\SembrarEstable 4.3\CapaNegocio\bin\Debug\CapaNegocio.pdb
+E:\JuanMaViana\Documentos\SAEDI\Sembrar 4.3\Sembrar4.3\SembrarEstable 4.3\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+E:\JuanMaViana\Documentos\SAEDI\Sembrar 4.3\Sembrar4.3\SembrarEstable 4.3\CapaNegocio\obj\Debug\CapaNegocio.dll
+E:\JuanMaViana\Documentos\SAEDI\Sembrar 4.3\Sembrar4.3\SembrarEstable 4.3\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\carme\Desktop\PATRICIA\Sembrar 4.3\SembrarEstable 4.3\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\carme\Desktop\PATRICIA\Sembrar 4.3\SembrarEstable 4.3\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\carme\Desktop\PATRICIA\Sembrar 4.3\SembrarEstable 4.3\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\carme\Desktop\PATRICIA\Sembrar 4.3\SembrarEstable 4.3\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\carme\Desktop\SAEDI\Sembrar 4.4\Sembrar 4.4\SembrarEstable 4.3\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\carme\Desktop\SAEDI\Sembrar 4.4\Sembrar 4.4\SembrarEstable 4.3\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\carme\Desktop\SAEDI\Sembrar 4.4\Sembrar 4.4\SembrarEstable 4.3\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\carme\Desktop\SAEDI\Sembrar 4.4\Sembrar 4.4\SembrarEstable 4.3\CapaNegocio\obj\Debug\CapaNegocio.pdb
+E:\JuanMaViana\Documentos\SAEDI\SembrarEstable 4.5\SembrarEstable 4.5\CapaNegocio\bin\Debug\CapaNegocio.dll
+E:\JuanMaViana\Documentos\SAEDI\SembrarEstable 4.5\SembrarEstable 4.5\CapaNegocio\bin\Debug\CapaNegocio.pdb
+E:\JuanMaViana\Documentos\SAEDI\SembrarEstable 4.5\SembrarEstable 4.5\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+E:\JuanMaViana\Documentos\SAEDI\SembrarEstable 4.5\SembrarEstable 4.5\CapaNegocio\obj\Debug\CapaNegocio.dll
+E:\JuanMaViana\Documentos\SAEDI\SembrarEstable 4.5\SembrarEstable 4.5\CapaNegocio\obj\Debug\CapaNegocio.pdb
+E:\JuanMaViana\Documentos\SAEDI\SembrarEstable 5.1\SembrarEstable 5.1\CapaNegocio\bin\Debug\CapaNegocio.dll
+E:\JuanMaViana\Documentos\SAEDI\SembrarEstable 5.1\SembrarEstable 5.1\CapaNegocio\bin\Debug\CapaNegocio.pdb
+E:\JuanMaViana\Documentos\SAEDI\SembrarEstable 5.1\SembrarEstable 5.1\CapaNegocio\obj\Debug\CapaNegocio.dll
+E:\JuanMaViana\Documentos\SAEDI\SembrarEstable 5.1\SembrarEstable 5.1\CapaNegocio\obj\Debug\CapaNegocio.pdb
+E:\JuanMaViana\Documentos\SAEDI\SembrarEstable 6\CapaNegocio\bin\Debug\CapaNegocio.dll
+E:\JuanMaViana\Documentos\SAEDI\SembrarEstable 6\CapaNegocio\bin\Debug\CapaNegocio.pdb
+E:\JuanMaViana\Documentos\SAEDI\SembrarEstable 6\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+E:\JuanMaViana\Documentos\SAEDI\SembrarEstable 6\CapaNegocio\obj\Debug\CapaNegocio.dll
+E:\JuanMaViana\Documentos\SAEDI\SembrarEstable 6\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\patri\Desktop\Sembrar\SembrarEstable 6.3\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\patri\Desktop\Sembrar\SembrarEstable 6.3\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\patri\Desktop\Sembrar\SembrarEstable 6.3\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\patri\Desktop\Sembrar\SembrarEstable 6.3\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\patri\Desktop\Sembrar\SembrarEstable 6.3\CapaNegocio\obj\Debug\CapaNegocio.pdb
+E:\JuanMa Viana\Documents\SAEDI\Sembrar_FINAL\CapaNegocio\bin\Debug\CapaNegocio.dll
+E:\JuanMa Viana\Documents\SAEDI\Sembrar_FINAL\CapaNegocio\bin\Debug\CapaNegocio.pdb
+E:\JuanMa Viana\Documents\SAEDI\Sembrar_FINAL\CapaNegocio\obj\Debug\CapaNegocio.dll
+E:\JuanMa Viana\Documents\SAEDI\Sembrar_FINAL\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Papo\Documents\SAEDI\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Papo\Documents\SAEDI\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Papo\Documents\SAEDI\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Papo\Documents\SAEDI\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Papo\Documents\SAEDI\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\carme\Documents\SAEDI\Enero 2018\SAEDI\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\carme\Documents\SAEDI\Enero 2018\SAEDI\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\carme\Documents\SAEDI\Enero 2018\SAEDI\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\carme\Documents\SAEDI\Enero 2018\SAEDI\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\carme\Documents\SAEDI\Enero 2018\SAEDI\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\patri\Desktop\Sembrar\Sembrar ultimos cambios\SAEDI\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\patri\Desktop\Sembrar\Sembrar ultimos cambios\SAEDI\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\patri\Desktop\Sembrar\Sembrar ultimos cambios\SAEDI\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\patri\Desktop\Sembrar\Sembrar ultimos cambios\SAEDI\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\patri\Desktop\Sembrar\Sembrar ultimos cambios\SAEDI\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\carme\Documents\SAEDI\Febrero 2018\SAEDI\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\carme\Documents\SAEDI\Febrero 2018\SAEDI\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\carme\Documents\SAEDI\Febrero 2018\SAEDI\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\carme\Documents\SAEDI\Febrero 2018\SAEDI\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\carme\Documents\SAEDI\Febrero 2018\SAEDI\CapaNegocio\obj\Debug\CapaNegocio.pdb
+E:\JuanMaViana\Documentos\SAEDI_FINAL\CapaNegocio\bin\Debug\CapaNegocio.dll
+E:\JuanMaViana\Documentos\SAEDI_FINAL\CapaNegocio\bin\Debug\CapaNegocio.pdb
+E:\JuanMaViana\Documentos\SAEDI_FINAL\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+E:\JuanMaViana\Documentos\SAEDI_FINAL\CapaNegocio\obj\Debug\CapaNegocio.dll
+E:\JuanMaViana\Documentos\SAEDI_FINAL\CapaNegocio\obj\Debug\CapaNegocio.pdb

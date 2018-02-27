@@ -1,0 +1,925 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SembrarModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="SembrarModelStoreContainer">
+    <EntitySet Name="ADULTO" EntityType="SembrarModel.Store.ADULTO" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CERTIFICADOMEDICO" EntityType="SembrarModel.Store.CERTIFICADOMEDICO" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="ENFERMEDAD" EntityType="SembrarModel.Store.ENFERMEDAD" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="FAMILIA" EntityType="SembrarModel.Store.FAMILIA" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="INDICADOR" EntityType="SembrarModel.Store.INDICADOR" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="JOVEN" EntityType="SembrarModel.Store.JOVEN" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="MENOREDAD" EntityType="SembrarModel.Store.MENOREDAD" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="NINIO" EntityType="SembrarModel.Store.NINIO" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="OBJETIVO" EntityType="SembrarModel.Store.OBJETIVO" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="OBJETIVO_INDICADOR" EntityType="SembrarModel.Store.OBJETIVO_INDICADOR" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="OCUPACION" EntityType="SembrarModel.Store.OCUPACION" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="ORIENTADOR" EntityType="SembrarModel.Store.ORIENTADOR" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="PARENTEZCO" EntityType="SembrarModel.Store.PARENTEZCO" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="PERSONA" EntityType="SembrarModel.Store.PERSONA" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="PERSONA_FAMILIA" EntityType="SembrarModel.Store.PERSONA_FAMILIA" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="PREGUNTA" EntityType="SembrarModel.Store.PREGUNTA" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="PROCESO" EntityType="SembrarModel.Store.PROCESO" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="PROCESO_OBJETIVO" EntityType="SembrarModel.Store.PROCESO_OBJETIVO" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="REPRESENTANTE" EntityType="SembrarModel.Store.REPRESENTANTE" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="RESPUESTA" EntityType="SembrarModel.Store.RESPUESTA" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="RESPUESTA_INDICADOR" EntityType="SembrarModel.Store.RESPUESTA_INDICADOR" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="sysdiagrams" EntityType="SembrarModel.Store.sysdiagrams" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TIPOFAMILIA" EntityType="SembrarModel.Store.TIPOFAMILIA" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TIPOPERSONA" EntityType="SembrarModel.Store.TIPOPERSONA" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TIPOPERSONA_OBJETIVO" EntityType="SembrarModel.Store.TIPOPERSONA_OBJETIVO" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TIPOPREGUNTA" EntityType="SembrarModel.Store.TIPOPREGUNTA" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="VISITADOMICILIAR" EntityType="SembrarModel.Store.VISITADOMICILIAR" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK_ADULTO_INHERITAN_PERSONA" Association="SembrarModel.Store.FK_ADULTO_INHERITAN_PERSONA">
+      <End Role="PERSONA" EntitySet="PERSONA" />
+      <End Role="ADULTO" EntitySet="ADULTO" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CERTIFIC_RELATIONS_ENFERMED" Association="SembrarModel.Store.FK_CERTIFIC_RELATIONS_ENFERMED">
+      <End Role="ENFERMEDAD" EntitySet="ENFERMEDAD" />
+      <End Role="CERTIFICADOMEDICO" EntitySet="CERTIFICADOMEDICO" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CERTIFIC_RELATIONS_MENOREDA" Association="SembrarModel.Store.FK_CERTIFIC_RELATIONS_MENOREDA">
+      <End Role="MENOREDAD" EntitySet="MENOREDAD" />
+      <End Role="CERTIFICADOMEDICO" EntitySet="CERTIFICADOMEDICO" />
+    </AssociationSet>
+    <AssociationSet Name="FK_FAMILIA_RELATIONS_TIPOFAMI" Association="SembrarModel.Store.FK_FAMILIA_RELATIONS_TIPOFAMI">
+      <End Role="TIPOFAMILIA" EntitySet="TIPOFAMILIA" />
+      <End Role="FAMILIA" EntitySet="FAMILIA" />
+    </AssociationSet>
+    <AssociationSet Name="FK_JOVEN_INHERITAN_MENOREDA" Association="SembrarModel.Store.FK_JOVEN_INHERITAN_MENOREDA">
+      <End Role="MENOREDAD" EntitySet="MENOREDAD" />
+      <End Role="JOVEN" EntitySet="JOVEN" />
+    </AssociationSet>
+    <AssociationSet Name="FK_MENOREDA_INHERITAN_PERSONA" Association="SembrarModel.Store.FK_MENOREDA_INHERITAN_PERSONA">
+      <End Role="PERSONA" EntitySet="PERSONA" />
+      <End Role="MENOREDAD" EntitySet="MENOREDAD" />
+    </AssociationSet>
+    <AssociationSet Name="FK_MENOREDA_RELATIONS_ORIENTAD" Association="SembrarModel.Store.FK_MENOREDA_RELATIONS_ORIENTAD">
+      <End Role="ORIENTADOR" EntitySet="ORIENTADOR" />
+      <End Role="MENOREDAD" EntitySet="MENOREDAD" />
+    </AssociationSet>
+    <AssociationSet Name="FK_NINIO_INHERITAN_MENOREDA" Association="SembrarModel.Store.FK_NINIO_INHERITAN_MENOREDA">
+      <End Role="MENOREDAD" EntitySet="MENOREDAD" />
+      <End Role="NINIO" EntitySet="NINIO" />
+    </AssociationSet>
+    <AssociationSet Name="FK_OBJETIVO_OBJETIVO__INDICADO" Association="SembrarModel.Store.FK_OBJETIVO_OBJETIVO__INDICADO">
+      <End Role="INDICADOR" EntitySet="INDICADOR" />
+      <End Role="OBJETIVO_INDICADOR" EntitySet="OBJETIVO_INDICADOR" />
+    </AssociationSet>
+    <AssociationSet Name="FK_OBJETIVO_OBJETIVO__OBJETIVO" Association="SembrarModel.Store.FK_OBJETIVO_OBJETIVO__OBJETIVO">
+      <End Role="OBJETIVO" EntitySet="OBJETIVO" />
+      <End Role="OBJETIVO_INDICADOR" EntitySet="OBJETIVO_INDICADOR" />
+    </AssociationSet>
+    <AssociationSet Name="FK_OBJETIVO_RELATIONS_VISITADO" Association="SembrarModel.Store.FK_OBJETIVO_RELATIONS_VISITADO">
+      <End Role="VISITADOMICILIAR" EntitySet="VISITADOMICILIAR" />
+      <End Role="OBJETIVO" EntitySet="OBJETIVO" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PERSONA__PERSONA_F_FAMILIA" Association="SembrarModel.Store.FK_PERSONA__PERSONA_F_FAMILIA">
+      <End Role="FAMILIA" EntitySet="FAMILIA" />
+      <End Role="PERSONA_FAMILIA" EntitySet="PERSONA_FAMILIA" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PERSONA__PERSONA_F_PERSONA" Association="SembrarModel.Store.FK_PERSONA__PERSONA_F_PERSONA">
+      <End Role="PERSONA" EntitySet="PERSONA" />
+      <End Role="PERSONA_FAMILIA" EntitySet="PERSONA_FAMILIA" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PERSONA_RELATIONS_OCUPACIO" Association="SembrarModel.Store.FK_PERSONA_RELATIONS_OCUPACIO">
+      <End Role="OCUPACION" EntitySet="OCUPACION" />
+      <End Role="PERSONA" EntitySet="PERSONA" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PERSONA_RELATIONS_PARENTEZ" Association="SembrarModel.Store.FK_PERSONA_RELATIONS_PARENTEZ">
+      <End Role="PARENTEZCO" EntitySet="PARENTEZCO" />
+      <End Role="PERSONA" EntitySet="PERSONA" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PERSONA_RELATIONS_REPRESEN" Association="SembrarModel.Store.FK_PERSONA_RELATIONS_REPRESEN">
+      <End Role="REPRESENTANTE" EntitySet="REPRESENTANTE" />
+      <End Role="PERSONA" EntitySet="PERSONA" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PERSONA_RELATIONS_TIPOPERS" Association="SembrarModel.Store.FK_PERSONA_RELATIONS_TIPOPERS">
+      <End Role="TIPOPERSONA" EntitySet="TIPOPERSONA" />
+      <End Role="PERSONA" EntitySet="PERSONA" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PREGUNTA_RELATIONS_INDICADO" Association="SembrarModel.Store.FK_PREGUNTA_RELATIONS_INDICADO">
+      <End Role="INDICADOR" EntitySet="INDICADOR" />
+      <End Role="PREGUNTA" EntitySet="PREGUNTA" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PREGUNTA_RELATIONS_TIPOPREG" Association="SembrarModel.Store.FK_PREGUNTA_RELATIONS_TIPOPREG">
+      <End Role="TIPOPREGUNTA" EntitySet="TIPOPREGUNTA" />
+      <End Role="PREGUNTA" EntitySet="PREGUNTA" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PROCESO__PROCESO_O_OBJETIVO" Association="SembrarModel.Store.FK_PROCESO__PROCESO_O_OBJETIVO">
+      <End Role="OBJETIVO" EntitySet="OBJETIVO" />
+      <End Role="PROCESO_OBJETIVO" EntitySet="PROCESO_OBJETIVO" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PROCESO_OBJETIVO_PROCESO" Association="SembrarModel.Store.FK_PROCESO_OBJETIVO_PROCESO">
+      <End Role="PROCESO" EntitySet="PROCESO" />
+      <End Role="PROCESO_OBJETIVO" EntitySet="PROCESO_OBJETIVO" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PROCESO_RELATIONS_ORIENTAD" Association="SembrarModel.Store.FK_PROCESO_RELATIONS_ORIENTAD">
+      <End Role="ORIENTADOR" EntitySet="ORIENTADOR" />
+      <End Role="PROCESO" EntitySet="PROCESO" />
+    </AssociationSet>
+    <AssociationSet Name="FK_REPRESEN_RELATIONS_ORIENTAD" Association="SembrarModel.Store.FK_REPRESEN_RELATIONS_ORIENTAD">
+      <End Role="ORIENTADOR" EntitySet="ORIENTADOR" />
+      <End Role="REPRESENTANTE" EntitySet="REPRESENTANTE" />
+    </AssociationSet>
+    <AssociationSet Name="FK_REPRESEN_RELATIONS_PERSONA" Association="SembrarModel.Store.FK_REPRESEN_RELATIONS_PERSONA">
+      <End Role="PERSONA" EntitySet="PERSONA" />
+      <End Role="REPRESENTANTE" EntitySet="REPRESENTANTE" />
+    </AssociationSet>
+    <AssociationSet Name="FK_REPUESTA_RELATIONS_PREGUNTA" Association="SembrarModel.Store.FK_REPUESTA_RELATIONS_PREGUNTA">
+      <End Role="PREGUNTA" EntitySet="PREGUNTA" />
+      <End Role="RESPUESTA" EntitySet="RESPUESTA" />
+    </AssociationSet>
+    <AssociationSet Name="FK_RESPUEST_RELATIONS_INDICADO" Association="SembrarModel.Store.FK_RESPUEST_RELATIONS_INDICADO">
+      <End Role="INDICADOR" EntitySet="INDICADOR" />
+      <End Role="RESPUESTA_INDICADOR" EntitySet="RESPUESTA_INDICADOR" />
+    </AssociationSet>
+    <AssociationSet Name="FK_RESPUEST_RELATIONS_PERSONA" Association="SembrarModel.Store.FK_RESPUEST_RELATIONS_PERSONA">
+      <End Role="PERSONA" EntitySet="PERSONA" />
+      <End Role="RESPUESTA_INDICADOR" EntitySet="RESPUESTA_INDICADOR" />
+    </AssociationSet>
+    <AssociationSet Name="FK_RESPUEST_RELATIONS_PREGUNTA" Association="SembrarModel.Store.FK_RESPUEST_RELATIONS_PREGUNTA">
+      <End Role="PREGUNTA" EntitySet="PREGUNTA" />
+      <End Role="RESPUESTA_INDICADOR" EntitySet="RESPUESTA_INDICADOR" />
+    </AssociationSet>
+    <AssociationSet Name="FK_RESPUEST_RELATIONS_REPUESTA" Association="SembrarModel.Store.FK_RESPUEST_RELATIONS_REPUESTA">
+      <End Role="RESPUESTA" EntitySet="RESPUESTA" />
+      <End Role="RESPUESTA_INDICADOR" EntitySet="RESPUESTA_INDICADOR" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TIPOPERS_TIPOPERSO_OBJETIVO" Association="SembrarModel.Store.FK_TIPOPERS_TIPOPERSO_OBJETIVO">
+      <End Role="OBJETIVO" EntitySet="OBJETIVO" />
+      <End Role="TIPOPERSONA_OBJETIVO" EntitySet="TIPOPERSONA_OBJETIVO" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TIPOPERS_TIPOPERSO_TIPOPERS" Association="SembrarModel.Store.FK_TIPOPERS_TIPOPERSO_TIPOPERS">
+      <End Role="TIPOPERSONA" EntitySet="TIPOPERSONA" />
+      <End Role="TIPOPERSONA_OBJETIVO" EntitySet="TIPOPERSONA_OBJETIVO" />
+    </AssociationSet>
+    <AssociationSet Name="FK_VISITADO_RELATIONS_FAMILIA" Association="SembrarModel.Store.FK_VISITADO_RELATIONS_FAMILIA">
+      <End Role="FAMILIA" EntitySet="FAMILIA" />
+      <End Role="VISITADOMICILIAR" EntitySet="VISITADOMICILIAR" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="ADULTO">
+    <Key>
+      <PropertyRef Name="IDPERSONA" />
+      <PropertyRef Name="IDADULTO" />
+    </Key>
+    <Property Name="IDPERSONA" Type="int" Nullable="false" />
+    <Property Name="IDADULTO" Type="int" Nullable="false" />
+    <Property Name="IDREPRESENTANTE" Type="int" />
+    <Property Name="IDPARENTEZCO" Type="int" />
+    <Property Name="IDALIMENTACION2" Type="int" />
+    <Property Name="IDTIPOPERSONA" Type="int" />
+    <Property Name="PRIMERNOMBREPERSONA" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="SEGUNDONOMBREPERSONA" Type="varchar" MaxLength="50" />
+    <Property Name="PRIMERAPELLIDOPERSONA" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="SEGUNDOAPELLIDOPERSONA" Type="varchar" MaxLength="50" />
+    <Property Name="GENEROPERSONA" Type="bit" Nullable="false" />
+    <Property Name="FECHANACIMIENTOPERSONA" Type="datetime" Nullable="false" />
+    <Property Name="CEDULAPERSONA" Type="varchar" MaxLength="10" />
+    <Property Name="LUGARNACIMIENTOPERSONA" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="DIRECCIONYSECTORPERSONA" Type="varchar" Nullable="false" MaxLength="100" />
+    <Property Name="TELEFONOPERSONA" Type="varchar" Nullable="false" MaxLength="15" />
+    <Property Name="VIVECONFAMILIAPERSONA" Type="bit" Nullable="false" />
+    <Property Name="OBSERVACIONPERSONA" Type="varchar" MaxLength="1024" />
+    <Property Name="FECHAINGRESOPROGRAMA" Type="datetime" />
+    <Property Name="CABEZAFAMILIA" Type="bit" />
+    <Property Name="ESTUDIAADULTO" Type="bit" Nullable="false" />
+    <Property Name="DONDEESTUDIAADULTO" Type="varchar" MaxLength="150" />
+  </EntityType>
+  <EntityType Name="CERTIFICADOMEDICO">
+    <Key>
+      <PropertyRef Name="IDCERTIFICADOMEDICO" />
+    </Key>
+    <Property Name="IDCERTIFICADOMEDICO" Type="int" Nullable="false" />
+    <Property Name="IDPERSONA" Type="int" />
+    <Property Name="IDMENOREDAD" Type="int" />
+    <Property Name="IDENFEREMEDAD" Type="int" />
+    <Property Name="SANOCERTIFICADOMEDICO" Type="bit" Nullable="false" />
+    <Property Name="ENFERMOCERTIFICADOMEDICO" Type="bit" Nullable="false" />
+    <Property Name="OBSERVACIONCERTIFICADOMEDICO" Type="varchar" MaxLength="500" />
+  </EntityType>
+  <EntityType Name="ENFERMEDAD">
+    <Key>
+      <PropertyRef Name="IDENFEREMEDAD" />
+    </Key>
+    <Property Name="IDENFEREMEDAD" Type="int" Nullable="false" />
+    <Property Name="NOMBRENEFERMEDAD" Type="varchar" Nullable="false" MaxLength="100" />
+    <Property Name="ESTADOENFEREMEDAD" Type="int" Nullable="false" />
+    <Property Name="FECHAENFERMEDAD" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="FAMILIA">
+    <Key>
+      <PropertyRef Name="IDFAMILIA" />
+    </Key>
+    <Property Name="IDFAMILIA" Type="int" Nullable="false" />
+    <Property Name="IDTIPOFAMILIA" Type="int" />
+    <Property Name="NOMBREFAMILIA" Type="varchar" MaxLength="50" />
+    <Property Name="OBSERVACIONFAMILIA" Type="varchar" MaxLength="300" />
+    <Property Name="ANIOINGRESOFAMILIA" Type="datetime" />
+  </EntityType>
+  <EntityType Name="INDICADOR">
+    <Key>
+      <PropertyRef Name="IDINDICADOR" />
+    </Key>
+    <Property Name="IDINDICADOR" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="NOMBREINDICADOR" Type="varchar" Nullable="false" MaxLength="150" />
+    <Property Name="ESTADO" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="JOVEN">
+    <Key>
+      <PropertyRef Name="IDPERSONA" />
+      <PropertyRef Name="IDMENOREDAD" />
+      <PropertyRef Name="IDJOVEN" />
+    </Key>
+    <Property Name="IDPERSONA" Type="int" Nullable="false" />
+    <Property Name="IDMENOREDAD" Type="int" Nullable="false" />
+    <Property Name="IDJOVEN" Type="char" Nullable="false" MaxLength="10" />
+    <Property Name="IDORIENTADOR" Type="int" />
+    <Property Name="IDREPRESENTANTE" Type="int" />
+    <Property Name="IDPARENTEZCO" Type="int" />
+    <Property Name="IDALIMENTACION2" Type="int" />
+    <Property Name="IDTIPOPERSONA" Type="int" />
+    <Property Name="PRIMERNOMBREPERSONA" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="SEGUNDONOMBREPERSONA" Type="varchar" MaxLength="50" />
+    <Property Name="PRIMERAPELLIDOPERSONA" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="SEGUNDOAPELLIDOPERSONA" Type="varchar" MaxLength="50" />
+    <Property Name="GENEROPERSONA" Type="bit" Nullable="false" />
+    <Property Name="FECHANACIMIENTOPERSONA" Type="datetime" Nullable="false" />
+    <Property Name="CEDULAPERSONA" Type="varchar" MaxLength="10" />
+    <Property Name="LUGARNACIMIENTOPERSONA" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="DIRECCIONYSECTORPERSONA" Type="varchar" Nullable="false" MaxLength="100" />
+    <Property Name="TELEFONOPERSONA" Type="varchar" Nullable="false" MaxLength="15" />
+    <Property Name="VIVECONFAMILIAPERSONA" Type="bit" Nullable="false" />
+    <Property Name="OBSERVACIONPERSONA" Type="varchar" MaxLength="1024" />
+    <Property Name="FECHAINGRESOPROGRAMA" Type="datetime" />
+    <Property Name="CABEZAFAMILIA" Type="bit" />
+    <Property Name="CODIGOSADMENOREDAD" Type="varchar" Nullable="false" MaxLength="7" />
+    <Property Name="ANIOINGRESOMENOREDAD" Type="int" Nullable="false" />
+    <Property Name="PESOMENOREDAD" Type="decimal" Nullable="false" Precision="10" Scale="2" />
+    <Property Name="TALLAMENOREDAD" Type="decimal" Nullable="false" Precision="10" Scale="2" />
+    <Property Name="DISCAPACIDADESMENOREDAD" Type="varchar" MaxLength="200" />
+    <Property Name="VACUNASMENOREDAD" Type="bit" Nullable="false" />
+    <Property Name="ALIMENTACIONMENOREDAD" Type="int" Nullable="false" />
+    <Property Name="NOMBREENCARGADOMENOREDAD" Type="int" Nullable="false" />
+    <Property Name="SACRAMENTOMENOREDAD" Type="varchar" MaxLength="200" />
+  </EntityType>
+  <EntityType Name="MENOREDAD">
+    <Key>
+      <PropertyRef Name="IDPERSONA" />
+      <PropertyRef Name="IDMENOREDAD" />
+    </Key>
+    <Property Name="IDPERSONA" Type="int" Nullable="false" />
+    <Property Name="IDMENOREDAD" Type="int" Nullable="false" />
+    <Property Name="IDORIENTADOR" Type="int" />
+    <Property Name="IDREPRESENTANTE" Type="int" />
+    <Property Name="IDPARENTEZCO" Type="int" />
+    <Property Name="IDALIMENTACION2" Type="int" />
+    <Property Name="IDTIPOPERSONA" Type="int" />
+    <Property Name="PRIMERNOMBREPERSONA" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="SEGUNDONOMBREPERSONA" Type="varchar" MaxLength="50" />
+    <Property Name="PRIMERAPELLIDOPERSONA" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="SEGUNDOAPELLIDOPERSONA" Type="varchar" MaxLength="50" />
+    <Property Name="GENEROPERSONA" Type="bit" Nullable="false" />
+    <Property Name="FECHANACIMIENTOPERSONA" Type="datetime" Nullable="false" />
+    <Property Name="CEDULAPERSONA" Type="varchar" MaxLength="10" />
+    <Property Name="LUGARNACIMIENTOPERSONA" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="DIRECCIONYSECTORPERSONA" Type="varchar" Nullable="false" MaxLength="100" />
+    <Property Name="TELEFONOPERSONA" Type="varchar" Nullable="false" MaxLength="15" />
+    <Property Name="VIVECONFAMILIAPERSONA" Type="bit" Nullable="false" />
+    <Property Name="OBSERVACIONPERSONA" Type="varchar" MaxLength="1024" />
+    <Property Name="FECHAINGRESOPROGRAMA" Type="datetime" />
+    <Property Name="CABEZAFAMILIA" Type="bit" />
+    <Property Name="CODIGOSADMENOREDAD" Type="varchar" Nullable="false" MaxLength="7" />
+    <Property Name="ANIOINGRESOMENOREDAD" Type="int" Nullable="false" />
+    <Property Name="PESOMENOREDAD" Type="decimal" Nullable="false" Precision="10" Scale="2" />
+    <Property Name="TALLAMENOREDAD" Type="decimal" Nullable="false" Precision="10" Scale="2" />
+    <Property Name="DISCAPACIDADESMENOREDAD" Type="varchar" MaxLength="200" />
+    <Property Name="VACUNASMENOREDAD" Type="bit" Nullable="false" />
+    <Property Name="ALIMENTACIONMENOREDAD" Type="int" Nullable="false" />
+    <Property Name="NOMBREENCARGADOMENOREDAD" Type="int" Nullable="false" />
+    <Property Name="SACRAMENTOMENOREDAD" Type="varchar" MaxLength="200" />
+  </EntityType>
+  <EntityType Name="NINIO">
+    <Key>
+      <PropertyRef Name="IDPERSONA" />
+      <PropertyRef Name="IDMENOREDAD" />
+      <PropertyRef Name="IDNINIO" />
+    </Key>
+    <Property Name="IDPERSONA" Type="int" Nullable="false" />
+    <Property Name="IDMENOREDAD" Type="int" Nullable="false" />
+    <Property Name="IDNINIO" Type="int" Nullable="false" />
+    <Property Name="IDORIENTADOR" Type="int" />
+    <Property Name="IDREPRESENTANTE" Type="int" />
+    <Property Name="IDPARENTEZCO" Type="int" />
+    <Property Name="IDALIMENTACION2" Type="int" />
+    <Property Name="IDTIPOPERSONA" Type="int" />
+    <Property Name="PRIMERNOMBREPERSONA" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="SEGUNDONOMBREPERSONA" Type="varchar" MaxLength="50" />
+    <Property Name="PRIMERAPELLIDOPERSONA" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="SEGUNDOAPELLIDOPERSONA" Type="varchar" MaxLength="50" />
+    <Property Name="GENEROPERSONA" Type="bit" Nullable="false" />
+    <Property Name="FECHANACIMIENTOPERSONA" Type="datetime" Nullable="false" />
+    <Property Name="CEDULAPERSONA" Type="varchar" MaxLength="10" />
+    <Property Name="LUGARNACIMIENTOPERSONA" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="DIRECCIONYSECTORPERSONA" Type="varchar" Nullable="false" MaxLength="100" />
+    <Property Name="TELEFONOPERSONA" Type="varchar" Nullable="false" MaxLength="15" />
+    <Property Name="VIVECONFAMILIAPERSONA" Type="bit" Nullable="false" />
+    <Property Name="OBSERVACIONPERSONA" Type="varchar" MaxLength="1024" />
+    <Property Name="FECHAINGRESOPROGRAMA" Type="datetime" />
+    <Property Name="CABEZAFAMILIA" Type="bit" />
+    <Property Name="CODIGOSADMENOREDAD" Type="varchar" Nullable="false" MaxLength="7" />
+    <Property Name="ANIOINGRESOMENOREDAD" Type="int" Nullable="false" />
+    <Property Name="PESOMENOREDAD" Type="decimal" Nullable="false" Precision="10" Scale="2" />
+    <Property Name="TALLAMENOREDAD" Type="decimal" Nullable="false" Precision="10" Scale="2" />
+    <Property Name="DISCAPACIDADESMENOREDAD" Type="varchar" MaxLength="200" />
+    <Property Name="VACUNASMENOREDAD" Type="bit" Nullable="false" />
+    <Property Name="ALIMENTACIONMENOREDAD" Type="int" Nullable="false" />
+    <Property Name="NOMBREENCARGADOMENOREDAD" Type="int" Nullable="false" />
+    <Property Name="SACRAMENTOMENOREDAD" Type="varchar" MaxLength="200" />
+    <Property Name="TRABAJONINIO" Type="bit" />
+    <Property Name="TIEMPOTRABAJONINIO" Type="int" />
+  </EntityType>
+  <EntityType Name="OBJETIVO">
+    <Key>
+      <PropertyRef Name="OBJETIVOID" />
+    </Key>
+    <Property Name="OBJETIVOID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="IDVISITADOMICILIAR" Type="int" />
+    <Property Name="NOMBREOBJETIVO" Type="varchar" Nullable="false" MaxLength="150" />
+    <Property Name="ESTADOOBJETIVO" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="OBJETIVO_INDICADOR">
+    <Key>
+      <PropertyRef Name="OBJETIVOID" />
+      <PropertyRef Name="IDINDICADOR" />
+    </Key>
+    <Property Name="OBJETIVOID" Type="int" Nullable="false" />
+    <Property Name="IDINDICADOR" Type="int" Nullable="false" />
+    <Property Name="ESTADO" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="OCUPACION">
+    <Key>
+      <PropertyRef Name="IDALIMENTACION2" />
+    </Key>
+    <Property Name="IDALIMENTACION2" Type="int" Nullable="false" />
+    <Property Name="NOMBRE" Type="varchar" MaxLength="50" />
+    <Property Name="ESTADOTIPOPREGUNTA" Type="int" />
+    <Property Name="FECHATIPOPREGUNTA" Type="datetime" />
+  </EntityType>
+  <EntityType Name="ORIENTADOR">
+    <Key>
+      <PropertyRef Name="IDORIENTADOR" />
+    </Key>
+    <Property Name="IDORIENTADOR" Type="int" Nullable="false" />
+    <Property Name="NOMBREORIENTADOR" Type="varchar" Nullable="false" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="PARENTEZCO">
+    <Key>
+      <PropertyRef Name="IDPARENTEZCO" />
+    </Key>
+    <Property Name="IDPARENTEZCO" Type="int" Nullable="false" />
+    <Property Name="NOMBREPARENTEZCO" Type="varchar" Nullable="false" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="PERSONA">
+    <Key>
+      <PropertyRef Name="IDPERSONA" />
+    </Key>
+    <Property Name="IDPERSONA" Type="int" Nullable="false" />
+    <Property Name="IDREPRESENTANTE" Type="int" />
+    <Property Name="IDPARENTEZCO" Type="int" />
+    <Property Name="IDALIMENTACION2" Type="int" />
+    <Property Name="IDTIPOPERSONA" Type="int" />
+    <Property Name="PRIMERNOMBREPERSONA" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="SEGUNDONOMBREPERSONA" Type="varchar" MaxLength="50" />
+    <Property Name="PRIMERAPELLIDOPERSONA" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="SEGUNDOAPELLIDOPERSONA" Type="varchar" MaxLength="50" />
+    <Property Name="GENEROPERSONA" Type="bit" Nullable="false" />
+    <Property Name="FECHANACIMIENTOPERSONA" Type="datetime" Nullable="false" />
+    <Property Name="CEDULAPERSONA" Type="varchar" MaxLength="10" />
+    <Property Name="LUGARNACIMIENTOPERSONA" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="DIRECCIONYSECTORPERSONA" Type="varchar" Nullable="false" MaxLength="100" />
+    <Property Name="TELEFONOPERSONA" Type="varchar" Nullable="false" MaxLength="15" />
+    <Property Name="VIVECONFAMILIAPERSONA" Type="bit" Nullable="false" />
+    <Property Name="OBSERVACIONPERSONA" Type="varchar" MaxLength="1024" />
+    <Property Name="FECHAINGRESOPROGRAMA" Type="datetime" />
+    <Property Name="CABEZAFAMILIA" Type="bit" />
+  </EntityType>
+  <EntityType Name="PERSONA_FAMILIA">
+    <Key>
+      <PropertyRef Name="IDFAMILIA" />
+      <PropertyRef Name="IDPERSONA" />
+    </Key>
+    <Property Name="IDFAMILIA" Type="int" Nullable="false" />
+    <Property Name="IDPERSONA" Type="int" Nullable="false" />
+    <Property Name="FECHATIPOPREGUNTA" Type="datetime" />
+    <Property Name="REFERENCIAFAMILIA" Type="bit" />
+  </EntityType>
+  <EntityType Name="PREGUNTA">
+    <Key>
+      <PropertyRef Name="IDPREGUNTA" />
+    </Key>
+    <Property Name="IDPREGUNTA" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="IDINDICADOR" Type="int" />
+    <Property Name="IDTIPOPREGUNTA" Type="int" />
+    <Property Name="NOMBRE" Type="varchar" MaxLength="50" />
+    <Property Name="ESTADOPREGUNTA" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="PROCESO">
+    <Key>
+      <PropertyRef Name="IDPROCESO" />
+    </Key>
+    <Property Name="IDPROCESO" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="IDORIENTADOR" Type="int" />
+    <Property Name="NOMBREPROCESO" Type="varchar" Nullable="false" MaxLength="150" />
+    <Property Name="ESTADO" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="PROCESO_OBJETIVO">
+    <Key>
+      <PropertyRef Name="IDPROCESO" />
+      <PropertyRef Name="OBJETIVOID" />
+    </Key>
+    <Property Name="IDPROCESO" Type="int" Nullable="false" />
+    <Property Name="OBJETIVOID" Type="int" Nullable="false" />
+    <Property Name="ESTADOPROCESOBJETIVO" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="REPRESENTANTE">
+    <Key>
+      <PropertyRef Name="IDREPRESENTANTE" />
+    </Key>
+    <Property Name="IDREPRESENTANTE" Type="int" Nullable="false" />
+    <Property Name="IDORIENTADOR" Type="int" />
+    <Property Name="IDPERSONA" Type="int" />
+    <Property Name="ANIOLECTIVOREPRESENTANTE" Type="varchar" MaxLength="20" />
+    <Property Name="REFERENCIAREPRESENTANTE" Type="varchar" MaxLength="50" />
+    <Property Name="RELACIONINIOREPRESENTANTE" Type="varchar" MaxLength="100" />
+    <Property Name="CODIGOSAD1" Type="varchar" MaxLength="7" />
+    <Property Name="CODIGOSAD2" Type="varchar" MaxLength="7" />
+    <Property Name="CODIGOSAD3" Type="varchar" MaxLength="7" />
+  </EntityType>
+  <EntityType Name="RESPUESTA">
+    <Key>
+      <PropertyRef Name="IDRESPUESTA" />
+    </Key>
+    <Property Name="IDRESPUESTA" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="IDPREGUNTA" Type="int" />
+    <Property Name="NOMBRE" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="PUNTAJE" Type="decimal" Precision="5" Scale="5" />
+    <Property Name="ESTADORESPUESTA" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="RESPUESTA_INDICADOR">
+    <Key>
+      <PropertyRef Name="IDRESPUESTAINDICADOR" />
+    </Key>
+    <Property Name="IDRESPUESTAINDICADOR" Type="int" Nullable="false" />
+    <Property Name="IDPREGUNTA" Type="int" />
+    <Property Name="IDINDICADOR" Type="int" />
+    <Property Name="IDRESPUESTA" Type="int" />
+    <Property Name="IDPERSONA" Type="int" />
+    <Property Name="PUNTAJE" Type="decimal" Precision="5" Scale="5" />
+    <Property Name="OBSERVACIONCERTIFICADOMEDICO" Type="varchar" MaxLength="500" />
+    <Property Name="FECHARESPUESTAINDICADOR" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" Nullable="false" MaxLength="128" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="TIPOFAMILIA">
+    <Key>
+      <PropertyRef Name="IDTIPOFAMILIA" />
+    </Key>
+    <Property Name="IDTIPOFAMILIA" Type="int" Nullable="false" />
+    <Property Name="NOMBRE" Type="varchar" MaxLength="50" />
+    <Property Name="ESTADO" Type="int" />
+    <Property Name="FECHA" Type="datetime" />
+  </EntityType>
+  <EntityType Name="TIPOPERSONA">
+    <Key>
+      <PropertyRef Name="IDTIPOPERSONA" />
+    </Key>
+    <Property Name="IDTIPOPERSONA" Type="int" Nullable="false" />
+    <Property Name="NOMBRETIPOPERSONA" Type="varchar" Nullable="false" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="TIPOPERSONA_OBJETIVO">
+    <Key>
+      <PropertyRef Name="IDTIPOPERSONA" />
+      <PropertyRef Name="OBJETIVOID" />
+    </Key>
+    <Property Name="IDTIPOPERSONA" Type="int" Nullable="false" />
+    <Property Name="OBJETIVOID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="TIPOPREGUNTA">
+    <Key>
+      <PropertyRef Name="IDTIPOPREGUNTA" />
+    </Key>
+    <Property Name="IDTIPOPREGUNTA" Type="int" Nullable="false" />
+    <Property Name="NOMBRETIPOPREGUNTA" Type="varchar" Nullable="false" MaxLength="200" />
+    <Property Name="ESTADOTIPOPREGUNTA" Type="int" Nullable="false" />
+    <Property Name="FECHATIPOPREGUNTA" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="VISITADOMICILIAR">
+    <Key>
+      <PropertyRef Name="IDVISITADOMICILIAR" />
+    </Key>
+    <Property Name="IDVISITADOMICILIAR" Type="int" Nullable="false" />
+    <Property Name="IDFAMILIA" Type="int" />
+    <Property Name="AREAVISITADOMICILIAR" Type="varchar" Nullable="false" MaxLength="100" />
+    <Property Name="MODALIDADVISTADOMICILIAR" Type="varchar" Nullable="false" MaxLength="100" />
+    <Property Name="PERSONAREFERENCIA" Type="bit" Nullable="false" />
+    <Property Name="FECHAVISITA" Type="datetime" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_ADULTO_INHERITAN_PERSONA">
+    <End Role="PERSONA" Type="SembrarModel.Store.PERSONA" Multiplicity="1" />
+    <End Role="ADULTO" Type="SembrarModel.Store.ADULTO" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PERSONA">
+        <PropertyRef Name="IDPERSONA" />
+      </Principal>
+      <Dependent Role="ADULTO">
+        <PropertyRef Name="IDPERSONA" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CERTIFIC_RELATIONS_ENFERMED">
+    <End Role="ENFERMEDAD" Type="SembrarModel.Store.ENFERMEDAD" Multiplicity="0..1" />
+    <End Role="CERTIFICADOMEDICO" Type="SembrarModel.Store.CERTIFICADOMEDICO" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ENFERMEDAD">
+        <PropertyRef Name="IDENFEREMEDAD" />
+      </Principal>
+      <Dependent Role="CERTIFICADOMEDICO">
+        <PropertyRef Name="IDENFEREMEDAD" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CERTIFIC_RELATIONS_MENOREDA">
+    <End Role="MENOREDAD" Type="SembrarModel.Store.MENOREDAD" Multiplicity="0..1" />
+    <End Role="CERTIFICADOMEDICO" Type="SembrarModel.Store.CERTIFICADOMEDICO" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="MENOREDAD">
+        <PropertyRef Name="IDPERSONA" />
+        <PropertyRef Name="IDMENOREDAD" />
+      </Principal>
+      <Dependent Role="CERTIFICADOMEDICO">
+        <PropertyRef Name="IDPERSONA" />
+        <PropertyRef Name="IDMENOREDAD" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_FAMILIA_RELATIONS_TIPOFAMI">
+    <End Role="TIPOFAMILIA" Type="SembrarModel.Store.TIPOFAMILIA" Multiplicity="0..1" />
+    <End Role="FAMILIA" Type="SembrarModel.Store.FAMILIA" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TIPOFAMILIA">
+        <PropertyRef Name="IDTIPOFAMILIA" />
+      </Principal>
+      <Dependent Role="FAMILIA">
+        <PropertyRef Name="IDTIPOFAMILIA" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_JOVEN_INHERITAN_MENOREDA">
+    <End Role="MENOREDAD" Type="SembrarModel.Store.MENOREDAD" Multiplicity="1" />
+    <End Role="JOVEN" Type="SembrarModel.Store.JOVEN" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="MENOREDAD">
+        <PropertyRef Name="IDPERSONA" />
+        <PropertyRef Name="IDMENOREDAD" />
+      </Principal>
+      <Dependent Role="JOVEN">
+        <PropertyRef Name="IDPERSONA" />
+        <PropertyRef Name="IDMENOREDAD" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_MENOREDA_INHERITAN_PERSONA">
+    <End Role="PERSONA" Type="SembrarModel.Store.PERSONA" Multiplicity="1" />
+    <End Role="MENOREDAD" Type="SembrarModel.Store.MENOREDAD" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PERSONA">
+        <PropertyRef Name="IDPERSONA" />
+      </Principal>
+      <Dependent Role="MENOREDAD">
+        <PropertyRef Name="IDPERSONA" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_MENOREDA_RELATIONS_ORIENTAD">
+    <End Role="ORIENTADOR" Type="SembrarModel.Store.ORIENTADOR" Multiplicity="0..1" />
+    <End Role="MENOREDAD" Type="SembrarModel.Store.MENOREDAD" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ORIENTADOR">
+        <PropertyRef Name="IDORIENTADOR" />
+      </Principal>
+      <Dependent Role="MENOREDAD">
+        <PropertyRef Name="IDORIENTADOR" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_NINIO_INHERITAN_MENOREDA">
+    <End Role="MENOREDAD" Type="SembrarModel.Store.MENOREDAD" Multiplicity="1" />
+    <End Role="NINIO" Type="SembrarModel.Store.NINIO" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="MENOREDAD">
+        <PropertyRef Name="IDPERSONA" />
+        <PropertyRef Name="IDMENOREDAD" />
+      </Principal>
+      <Dependent Role="NINIO">
+        <PropertyRef Name="IDPERSONA" />
+        <PropertyRef Name="IDMENOREDAD" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_OBJETIVO_OBJETIVO__INDICADO">
+    <End Role="INDICADOR" Type="SembrarModel.Store.INDICADOR" Multiplicity="1" />
+    <End Role="OBJETIVO_INDICADOR" Type="SembrarModel.Store.OBJETIVO_INDICADOR" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="INDICADOR">
+        <PropertyRef Name="IDINDICADOR" />
+      </Principal>
+      <Dependent Role="OBJETIVO_INDICADOR">
+        <PropertyRef Name="IDINDICADOR" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_OBJETIVO_OBJETIVO__OBJETIVO">
+    <End Role="OBJETIVO" Type="SembrarModel.Store.OBJETIVO" Multiplicity="1" />
+    <End Role="OBJETIVO_INDICADOR" Type="SembrarModel.Store.OBJETIVO_INDICADOR" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="OBJETIVO">
+        <PropertyRef Name="OBJETIVOID" />
+      </Principal>
+      <Dependent Role="OBJETIVO_INDICADOR">
+        <PropertyRef Name="OBJETIVOID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_OBJETIVO_RELATIONS_VISITADO">
+    <End Role="VISITADOMICILIAR" Type="SembrarModel.Store.VISITADOMICILIAR" Multiplicity="0..1" />
+    <End Role="OBJETIVO" Type="SembrarModel.Store.OBJETIVO" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="VISITADOMICILIAR">
+        <PropertyRef Name="IDVISITADOMICILIAR" />
+      </Principal>
+      <Dependent Role="OBJETIVO">
+        <PropertyRef Name="IDVISITADOMICILIAR" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PERSONA__PERSONA_F_FAMILIA">
+    <End Role="FAMILIA" Type="SembrarModel.Store.FAMILIA" Multiplicity="1" />
+    <End Role="PERSONA_FAMILIA" Type="SembrarModel.Store.PERSONA_FAMILIA" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="FAMILIA">
+        <PropertyRef Name="IDFAMILIA" />
+      </Principal>
+      <Dependent Role="PERSONA_FAMILIA">
+        <PropertyRef Name="IDFAMILIA" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PERSONA__PERSONA_F_PERSONA">
+    <End Role="PERSONA" Type="SembrarModel.Store.PERSONA" Multiplicity="1" />
+    <End Role="PERSONA_FAMILIA" Type="SembrarModel.Store.PERSONA_FAMILIA" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PERSONA">
+        <PropertyRef Name="IDPERSONA" />
+      </Principal>
+      <Dependent Role="PERSONA_FAMILIA">
+        <PropertyRef Name="IDPERSONA" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PERSONA_RELATIONS_OCUPACIO">
+    <End Role="OCUPACION" Type="SembrarModel.Store.OCUPACION" Multiplicity="0..1" />
+    <End Role="PERSONA" Type="SembrarModel.Store.PERSONA" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="OCUPACION">
+        <PropertyRef Name="IDALIMENTACION2" />
+      </Principal>
+      <Dependent Role="PERSONA">
+        <PropertyRef Name="IDALIMENTACION2" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PERSONA_RELATIONS_PARENTEZ">
+    <End Role="PARENTEZCO" Type="SembrarModel.Store.PARENTEZCO" Multiplicity="0..1" />
+    <End Role="PERSONA" Type="SembrarModel.Store.PERSONA" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PARENTEZCO">
+        <PropertyRef Name="IDPARENTEZCO" />
+      </Principal>
+      <Dependent Role="PERSONA">
+        <PropertyRef Name="IDPARENTEZCO" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PERSONA_RELATIONS_REPRESEN">
+    <End Role="REPRESENTANTE" Type="SembrarModel.Store.REPRESENTANTE" Multiplicity="0..1" />
+    <End Role="PERSONA" Type="SembrarModel.Store.PERSONA" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="REPRESENTANTE">
+        <PropertyRef Name="IDREPRESENTANTE" />
+      </Principal>
+      <Dependent Role="PERSONA">
+        <PropertyRef Name="IDREPRESENTANTE" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PERSONA_RELATIONS_TIPOPERS">
+    <End Role="TIPOPERSONA" Type="SembrarModel.Store.TIPOPERSONA" Multiplicity="0..1" />
+    <End Role="PERSONA" Type="SembrarModel.Store.PERSONA" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TIPOPERSONA">
+        <PropertyRef Name="IDTIPOPERSONA" />
+      </Principal>
+      <Dependent Role="PERSONA">
+        <PropertyRef Name="IDTIPOPERSONA" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PREGUNTA_RELATIONS_INDICADO">
+    <End Role="INDICADOR" Type="SembrarModel.Store.INDICADOR" Multiplicity="0..1" />
+    <End Role="PREGUNTA" Type="SembrarModel.Store.PREGUNTA" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="INDICADOR">
+        <PropertyRef Name="IDINDICADOR" />
+      </Principal>
+      <Dependent Role="PREGUNTA">
+        <PropertyRef Name="IDINDICADOR" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PREGUNTA_RELATIONS_TIPOPREG">
+    <End Role="TIPOPREGUNTA" Type="SembrarModel.Store.TIPOPREGUNTA" Multiplicity="0..1" />
+    <End Role="PREGUNTA" Type="SembrarModel.Store.PREGUNTA" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TIPOPREGUNTA">
+        <PropertyRef Name="IDTIPOPREGUNTA" />
+      </Principal>
+      <Dependent Role="PREGUNTA">
+        <PropertyRef Name="IDTIPOPREGUNTA" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PROCESO__PROCESO_O_OBJETIVO">
+    <End Role="OBJETIVO" Type="SembrarModel.Store.OBJETIVO" Multiplicity="1" />
+    <End Role="PROCESO_OBJETIVO" Type="SembrarModel.Store.PROCESO_OBJETIVO" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="OBJETIVO">
+        <PropertyRef Name="OBJETIVOID" />
+      </Principal>
+      <Dependent Role="PROCESO_OBJETIVO">
+        <PropertyRef Name="OBJETIVOID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PROCESO_OBJETIVO_PROCESO">
+    <End Role="PROCESO" Type="SembrarModel.Store.PROCESO" Multiplicity="1" />
+    <End Role="PROCESO_OBJETIVO" Type="SembrarModel.Store.PROCESO_OBJETIVO" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PROCESO">
+        <PropertyRef Name="IDPROCESO" />
+      </Principal>
+      <Dependent Role="PROCESO_OBJETIVO">
+        <PropertyRef Name="IDPROCESO" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PROCESO_RELATIONS_ORIENTAD">
+    <End Role="ORIENTADOR" Type="SembrarModel.Store.ORIENTADOR" Multiplicity="0..1" />
+    <End Role="PROCESO" Type="SembrarModel.Store.PROCESO" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ORIENTADOR">
+        <PropertyRef Name="IDORIENTADOR" />
+      </Principal>
+      <Dependent Role="PROCESO">
+        <PropertyRef Name="IDORIENTADOR" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_REPRESEN_RELATIONS_ORIENTAD">
+    <End Role="ORIENTADOR" Type="SembrarModel.Store.ORIENTADOR" Multiplicity="0..1" />
+    <End Role="REPRESENTANTE" Type="SembrarModel.Store.REPRESENTANTE" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ORIENTADOR">
+        <PropertyRef Name="IDORIENTADOR" />
+      </Principal>
+      <Dependent Role="REPRESENTANTE">
+        <PropertyRef Name="IDORIENTADOR" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_REPRESEN_RELATIONS_PERSONA">
+    <End Role="PERSONA" Type="SembrarModel.Store.PERSONA" Multiplicity="0..1" />
+    <End Role="REPRESENTANTE" Type="SembrarModel.Store.REPRESENTANTE" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PERSONA">
+        <PropertyRef Name="IDPERSONA" />
+      </Principal>
+      <Dependent Role="REPRESENTANTE">
+        <PropertyRef Name="IDPERSONA" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_REPUESTA_RELATIONS_PREGUNTA">
+    <End Role="PREGUNTA" Type="SembrarModel.Store.PREGUNTA" Multiplicity="0..1" />
+    <End Role="RESPUESTA" Type="SembrarModel.Store.RESPUESTA" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PREGUNTA">
+        <PropertyRef Name="IDPREGUNTA" />
+      </Principal>
+      <Dependent Role="RESPUESTA">
+        <PropertyRef Name="IDPREGUNTA" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_RESPUEST_RELATIONS_INDICADO">
+    <End Role="INDICADOR" Type="SembrarModel.Store.INDICADOR" Multiplicity="0..1" />
+    <End Role="RESPUESTA_INDICADOR" Type="SembrarModel.Store.RESPUESTA_INDICADOR" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="INDICADOR">
+        <PropertyRef Name="IDINDICADOR" />
+      </Principal>
+      <Dependent Role="RESPUESTA_INDICADOR">
+        <PropertyRef Name="IDINDICADOR" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_RESPUEST_RELATIONS_PERSONA">
+    <End Role="PERSONA" Type="SembrarModel.Store.PERSONA" Multiplicity="0..1" />
+    <End Role="RESPUESTA_INDICADOR" Type="SembrarModel.Store.RESPUESTA_INDICADOR" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PERSONA">
+        <PropertyRef Name="IDPERSONA" />
+      </Principal>
+      <Dependent Role="RESPUESTA_INDICADOR">
+        <PropertyRef Name="IDPERSONA" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_RESPUEST_RELATIONS_PREGUNTA">
+    <End Role="PREGUNTA" Type="SembrarModel.Store.PREGUNTA" Multiplicity="0..1" />
+    <End Role="RESPUESTA_INDICADOR" Type="SembrarModel.Store.RESPUESTA_INDICADOR" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PREGUNTA">
+        <PropertyRef Name="IDPREGUNTA" />
+      </Principal>
+      <Dependent Role="RESPUESTA_INDICADOR">
+        <PropertyRef Name="IDPREGUNTA" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_RESPUEST_RELATIONS_REPUESTA">
+    <End Role="RESPUESTA" Type="SembrarModel.Store.RESPUESTA" Multiplicity="0..1" />
+    <End Role="RESPUESTA_INDICADOR" Type="SembrarModel.Store.RESPUESTA_INDICADOR" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="RESPUESTA">
+        <PropertyRef Name="IDRESPUESTA" />
+      </Principal>
+      <Dependent Role="RESPUESTA_INDICADOR">
+        <PropertyRef Name="IDRESPUESTA" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TIPOPERS_TIPOPERSO_OBJETIVO">
+    <End Role="OBJETIVO" Type="SembrarModel.Store.OBJETIVO" Multiplicity="1" />
+    <End Role="TIPOPERSONA_OBJETIVO" Type="SembrarModel.Store.TIPOPERSONA_OBJETIVO" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="OBJETIVO">
+        <PropertyRef Name="OBJETIVOID" />
+      </Principal>
+      <Dependent Role="TIPOPERSONA_OBJETIVO">
+        <PropertyRef Name="OBJETIVOID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TIPOPERS_TIPOPERSO_TIPOPERS">
+    <End Role="TIPOPERSONA" Type="SembrarModel.Store.TIPOPERSONA" Multiplicity="1" />
+    <End Role="TIPOPERSONA_OBJETIVO" Type="SembrarModel.Store.TIPOPERSONA_OBJETIVO" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TIPOPERSONA">
+        <PropertyRef Name="IDTIPOPERSONA" />
+      </Principal>
+      <Dependent Role="TIPOPERSONA_OBJETIVO">
+        <PropertyRef Name="IDTIPOPERSONA" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_VISITADO_RELATIONS_FAMILIA">
+    <End Role="FAMILIA" Type="SembrarModel.Store.FAMILIA" Multiplicity="0..1" />
+    <End Role="VISITADOMICILIAR" Type="SembrarModel.Store.VISITADOMICILIAR" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="FAMILIA">
+        <PropertyRef Name="IDFAMILIA" />
+      </Principal>
+      <Dependent Role="VISITADOMICILIAR">
+        <PropertyRef Name="IDFAMILIA" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

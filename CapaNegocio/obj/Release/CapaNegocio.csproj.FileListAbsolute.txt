@@ -1,0 +1,20 @@
+E:\JuanMa Viana\Documents\SAEDI\Sembrar_FINAL\CapaNegocio\bin\Release\CapaNegocio.dll
+E:\JuanMa Viana\Documents\SAEDI\Sembrar_FINAL\CapaNegocio\bin\Release\CapaNegocio.pdb
+E:\JuanMa Viana\Documents\SAEDI\Sembrar_FINAL\CapaNegocio\obj\Release\CapaNegocio.csprojResolveAssemblyReference.cache
+E:\JuanMa Viana\Documents\SAEDI\Sembrar_FINAL\CapaNegocio\obj\Release\CapaNegocio.dll
+E:\JuanMa Viana\Documents\SAEDI\Sembrar_FINAL\CapaNegocio\obj\Release\CapaNegocio.pdb
+C:\Users\Papo\Documents\SAEDI\CapaNegocio\bin\Release\CapaNegocio.dll
+C:\Users\Papo\Documents\SAEDI\CapaNegocio\bin\Release\CapaNegocio.pdb
+C:\Users\Papo\Documents\SAEDI\CapaNegocio\obj\Release\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Papo\Documents\SAEDI\CapaNegocio\obj\Release\CapaNegocio.dll
+C:\Users\Papo\Documents\SAEDI\CapaNegocio\obj\Release\CapaNegocio.pdb
+C:\Users\carme\Documents\SAEDI\Febrero 2018\SAEDI\CapaNegocio\bin\Release\CapaNegocio.dll
+C:\Users\carme\Documents\SAEDI\Febrero 2018\SAEDI\CapaNegocio\bin\Release\CapaNegocio.pdb
+C:\Users\carme\Documents\SAEDI\Febrero 2018\SAEDI\CapaNegocio\obj\Release\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\carme\Documents\SAEDI\Febrero 2018\SAEDI\CapaNegocio\obj\Release\CapaNegocio.dll
+C:\Users\carme\Documents\SAEDI\Febrero 2018\SAEDI\CapaNegocio\obj\Release\CapaNegocio.pdb
+E:\JuanMaViana\Documentos\SAEDI_FINAL\CapaNegocio\bin\Release\CapaNegocio.dll
+E:\JuanMaViana\Documentos\SAEDI_FINAL\CapaNegocio\bin\Release\CapaNegocio.pdb
+E:\JuanMaViana\Documentos\SAEDI_FINAL\CapaNegocio\obj\Release\CapaNegocio.csprojResolveAssemblyReference.cache
+E:\JuanMaViana\Documentos\SAEDI_FINAL\CapaNegocio\obj\Release\CapaNegocio.dll
+E:\JuanMaViana\Documentos\SAEDI_FINAL\CapaNegocio\obj\Release\CapaNegocio.pdb

@@ -1,0 +1,41 @@
+
+frm ActualizarReunion
+
+Try y catch plox. darle funcionalidad a la página xD
+
+Estado al guagua
+
+**jnviana    32N78VT
+
+
+
+Número de veces que hay una reunion al mes
+
+Número de veces de cuantas veces una persona asiste al taller al mes
+
+cuantas veces se hizo el taller
+
+cuantos participantes en el mes tuvo el taller
+
+cambiar los parametros de reunion
+
+CREAR ASISTENCIA Y ACTUALIZAR ASISTENCIA
+
+Cambiar contrsañe
+
+error al ingresar como tecnico a meodificar individuos
+
+titulo de procesos en los reportes de asistencia incluyendo un filtro
+
+
+
+Sale ID de usuario (no debe salir)<--- Al tomar asistencias
+
+Modificar el tiempo por el cual se debe registrar asistencia diaria
+
+cambiar de orientador a educador
+
+
+
+
+

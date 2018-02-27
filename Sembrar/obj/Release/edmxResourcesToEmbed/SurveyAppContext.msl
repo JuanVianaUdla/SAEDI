@@ -1,0 +1,397 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="SembrarModelStoreContainer" CdmEntityContainer="SembrarEntities">
+    <EntitySetMapping Name="ADULTO">
+      <EntityTypeMapping TypeName="SembrarModel.ADULTO">
+        <MappingFragment StoreEntitySet="ADULTO">
+          <ScalarProperty Name="IDPERSONA" ColumnName="IDPERSONA" />
+          <ScalarProperty Name="IDADULTO" ColumnName="IDADULTO" />
+          <ScalarProperty Name="IDREPRESENTANTE" ColumnName="IDREPRESENTANTE" />
+          <ScalarProperty Name="IDPARENTEZCO" ColumnName="IDPARENTEZCO" />
+          <ScalarProperty Name="IDALIMENTACION2" ColumnName="IDALIMENTACION2" />
+          <ScalarProperty Name="IDTIPOPERSONA" ColumnName="IDTIPOPERSONA" />
+          <ScalarProperty Name="PRIMERNOMBREPERSONA" ColumnName="PRIMERNOMBREPERSONA" />
+          <ScalarProperty Name="SEGUNDONOMBREPERSONA" ColumnName="SEGUNDONOMBREPERSONA" />
+          <ScalarProperty Name="PRIMERAPELLIDOPERSONA" ColumnName="PRIMERAPELLIDOPERSONA" />
+          <ScalarProperty Name="SEGUNDOAPELLIDOPERSONA" ColumnName="SEGUNDOAPELLIDOPERSONA" />
+          <ScalarProperty Name="GENEROPERSONA" ColumnName="GENEROPERSONA" />
+          <ScalarProperty Name="FECHANACIMIENTOPERSONA" ColumnName="FECHANACIMIENTOPERSONA" />
+          <ScalarProperty Name="CEDULAPERSONA" ColumnName="CEDULAPERSONA" />
+          <ScalarProperty Name="LUGARNACIMIENTOPERSONA" ColumnName="LUGARNACIMIENTOPERSONA" />
+          <ScalarProperty Name="DIRECCIONYSECTORPERSONA" ColumnName="DIRECCIONYSECTORPERSONA" />
+          <ScalarProperty Name="TELEFONOPERSONA" ColumnName="TELEFONOPERSONA" />
+          <ScalarProperty Name="VIVECONFAMILIAPERSONA" ColumnName="VIVECONFAMILIAPERSONA" />
+          <ScalarProperty Name="OBSERVACIONPERSONA" ColumnName="OBSERVACIONPERSONA" />
+          <ScalarProperty Name="FECHAINGRESOPROGRAMA" ColumnName="FECHAINGRESOPROGRAMA" />
+          <ScalarProperty Name="CABEZAFAMILIA" ColumnName="CABEZAFAMILIA" />
+          <ScalarProperty Name="ESTUDIAADULTO" ColumnName="ESTUDIAADULTO" />
+          <ScalarProperty Name="DONDEESTUDIAADULTO" ColumnName="DONDEESTUDIAADULTO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CERTIFICADOMEDICO">
+      <EntityTypeMapping TypeName="SembrarModel.CERTIFICADOMEDICO">
+        <MappingFragment StoreEntitySet="CERTIFICADOMEDICO">
+          <ScalarProperty Name="IDCERTIFICADOMEDICO" ColumnName="IDCERTIFICADOMEDICO" />
+          <ScalarProperty Name="IDPERSONA" ColumnName="IDPERSONA" />
+          <ScalarProperty Name="IDMENOREDAD" ColumnName="IDMENOREDAD" />
+          <ScalarProperty Name="IDENFEREMEDAD" ColumnName="IDENFEREMEDAD" />
+          <ScalarProperty Name="SANOCERTIFICADOMEDICO" ColumnName="SANOCERTIFICADOMEDICO" />
+          <ScalarProperty Name="ENFERMOCERTIFICADOMEDICO" ColumnName="ENFERMOCERTIFICADOMEDICO" />
+          <ScalarProperty Name="OBSERVACIONCERTIFICADOMEDICO" ColumnName="OBSERVACIONCERTIFICADOMEDICO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ENFERMEDAD">
+      <EntityTypeMapping TypeName="SembrarModel.ENFERMEDAD">
+        <MappingFragment StoreEntitySet="ENFERMEDAD">
+          <ScalarProperty Name="IDENFEREMEDAD" ColumnName="IDENFEREMEDAD" />
+          <ScalarProperty Name="NOMBRENEFERMEDAD" ColumnName="NOMBRENEFERMEDAD" />
+          <ScalarProperty Name="ESTADOENFEREMEDAD" ColumnName="ESTADOENFEREMEDAD" />
+          <ScalarProperty Name="FECHAENFERMEDAD" ColumnName="FECHAENFERMEDAD" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="FAMILIA">
+      <EntityTypeMapping TypeName="SembrarModel.FAMILIA">
+        <MappingFragment StoreEntitySet="FAMILIA">
+          <ScalarProperty Name="IDFAMILIA" ColumnName="IDFAMILIA" />
+          <ScalarProperty Name="IDTIPOFAMILIA" ColumnName="IDTIPOFAMILIA" />
+          <ScalarProperty Name="NOMBREFAMILIA" ColumnName="NOMBREFAMILIA" />
+          <ScalarProperty Name="OBSERVACIONFAMILIA" ColumnName="OBSERVACIONFAMILIA" />
+          <ScalarProperty Name="ANIOINGRESOFAMILIA" ColumnName="ANIOINGRESOFAMILIA" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="INDICADOR">
+      <EntityTypeMapping TypeName="SembrarModel.INDICADOR">
+        <MappingFragment StoreEntitySet="INDICADOR">
+          <ScalarProperty Name="IDINDICADOR" ColumnName="IDINDICADOR" />
+          <ScalarProperty Name="NOMBREINDICADOR" ColumnName="NOMBREINDICADOR" />
+          <ScalarProperty Name="ESTADO" ColumnName="ESTADO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="JOVEN">
+      <EntityTypeMapping TypeName="SembrarModel.JOVEN">
+        <MappingFragment StoreEntitySet="JOVEN">
+          <ScalarProperty Name="IDPERSONA" ColumnName="IDPERSONA" />
+          <ScalarProperty Name="IDMENOREDAD" ColumnName="IDMENOREDAD" />
+          <ScalarProperty Name="IDJOVEN" ColumnName="IDJOVEN" />
+          <ScalarProperty Name="IDORIENTADOR" ColumnName="IDORIENTADOR" />
+          <ScalarProperty Name="IDREPRESENTANTE" ColumnName="IDREPRESENTANTE" />
+          <ScalarProperty Name="IDPARENTEZCO" ColumnName="IDPARENTEZCO" />
+          <ScalarProperty Name="IDALIMENTACION2" ColumnName="IDALIMENTACION2" />
+          <ScalarProperty Name="IDTIPOPERSONA" ColumnName="IDTIPOPERSONA" />
+          <ScalarProperty Name="PRIMERNOMBREPERSONA" ColumnName="PRIMERNOMBREPERSONA" />
+          <ScalarProperty Name="SEGUNDONOMBREPERSONA" ColumnName="SEGUNDONOMBREPERSONA" />
+          <ScalarProperty Name="PRIMERAPELLIDOPERSONA" ColumnName="PRIMERAPELLIDOPERSONA" />
+          <ScalarProperty Name="SEGUNDOAPELLIDOPERSONA" ColumnName="SEGUNDOAPELLIDOPERSONA" />
+          <ScalarProperty Name="GENEROPERSONA" ColumnName="GENEROPERSONA" />
+          <ScalarProperty Name="FECHANACIMIENTOPERSONA" ColumnName="FECHANACIMIENTOPERSONA" />
+          <ScalarProperty Name="CEDULAPERSONA" ColumnName="CEDULAPERSONA" />
+          <ScalarProperty Name="LUGARNACIMIENTOPERSONA" ColumnName="LUGARNACIMIENTOPERSONA" />
+          <ScalarProperty Name="DIRECCIONYSECTORPERSONA" ColumnName="DIRECCIONYSECTORPERSONA" />
+          <ScalarProperty Name="TELEFONOPERSONA" ColumnName="TELEFONOPERSONA" />
+          <ScalarProperty Name="VIVECONFAMILIAPERSONA" ColumnName="VIVECONFAMILIAPERSONA" />
+          <ScalarProperty Name="OBSERVACIONPERSONA" ColumnName="OBSERVACIONPERSONA" />
+          <ScalarProperty Name="FECHAINGRESOPROGRAMA" ColumnName="FECHAINGRESOPROGRAMA" />
+          <ScalarProperty Name="CABEZAFAMILIA" ColumnName="CABEZAFAMILIA" />
+          <ScalarProperty Name="CODIGOSADMENOREDAD" ColumnName="CODIGOSADMENOREDAD" />
+          <ScalarProperty Name="ANIOINGRESOMENOREDAD" ColumnName="ANIOINGRESOMENOREDAD" />
+          <ScalarProperty Name="PESOMENOREDAD" ColumnName="PESOMENOREDAD" />
+          <ScalarProperty Name="TALLAMENOREDAD" ColumnName="TALLAMENOREDAD" />
+          <ScalarProperty Name="DISCAPACIDADESMENOREDAD" ColumnName="DISCAPACIDADESMENOREDAD" />
+          <ScalarProperty Name="VACUNASMENOREDAD" ColumnName="VACUNASMENOREDAD" />
+          <ScalarProperty Name="ALIMENTACIONMENOREDAD" ColumnName="ALIMENTACIONMENOREDAD" />
+          <ScalarProperty Name="NOMBREENCARGADOMENOREDAD" ColumnName="NOMBREENCARGADOMENOREDAD" />
+          <ScalarProperty Name="SACRAMENTOMENOREDAD" ColumnName="SACRAMENTOMENOREDAD" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MENOREDAD">
+      <EntityTypeMapping TypeName="SembrarModel.MENOREDAD">
+        <MappingFragment StoreEntitySet="MENOREDAD">
+          <ScalarProperty Name="IDPERSONA" ColumnName="IDPERSONA" />
+          <ScalarProperty Name="IDMENOREDAD" ColumnName="IDMENOREDAD" />
+          <ScalarProperty Name="IDORIENTADOR" ColumnName="IDORIENTADOR" />
+          <ScalarProperty Name="IDREPRESENTANTE" ColumnName="IDREPRESENTANTE" />
+          <ScalarProperty Name="IDPARENTEZCO" ColumnName="IDPARENTEZCO" />
+          <ScalarProperty Name="IDALIMENTACION2" ColumnName="IDALIMENTACION2" />
+          <ScalarProperty Name="IDTIPOPERSONA" ColumnName="IDTIPOPERSONA" />
+          <ScalarProperty Name="PRIMERNOMBREPERSONA" ColumnName="PRIMERNOMBREPERSONA" />
+          <ScalarProperty Name="SEGUNDONOMBREPERSONA" ColumnName="SEGUNDONOMBREPERSONA" />
+          <ScalarProperty Name="PRIMERAPELLIDOPERSONA" ColumnName="PRIMERAPELLIDOPERSONA" />
+          <ScalarProperty Name="SEGUNDOAPELLIDOPERSONA" ColumnName="SEGUNDOAPELLIDOPERSONA" />
+          <ScalarProperty Name="GENEROPERSONA" ColumnName="GENEROPERSONA" />
+          <ScalarProperty Name="FECHANACIMIENTOPERSONA" ColumnName="FECHANACIMIENTOPERSONA" />
+          <ScalarProperty Name="CEDULAPERSONA" ColumnName="CEDULAPERSONA" />
+          <ScalarProperty Name="LUGARNACIMIENTOPERSONA" ColumnName="LUGARNACIMIENTOPERSONA" />
+          <ScalarProperty Name="DIRECCIONYSECTORPERSONA" ColumnName="DIRECCIONYSECTORPERSONA" />
+          <ScalarProperty Name="TELEFONOPERSONA" ColumnName="TELEFONOPERSONA" />
+          <ScalarProperty Name="VIVECONFAMILIAPERSONA" ColumnName="VIVECONFAMILIAPERSONA" />
+          <ScalarProperty Name="OBSERVACIONPERSONA" ColumnName="OBSERVACIONPERSONA" />
+          <ScalarProperty Name="FECHAINGRESOPROGRAMA" ColumnName="FECHAINGRESOPROGRAMA" />
+          <ScalarProperty Name="CABEZAFAMILIA" ColumnName="CABEZAFAMILIA" />
+          <ScalarProperty Name="CODIGOSADMENOREDAD" ColumnName="CODIGOSADMENOREDAD" />
+          <ScalarProperty Name="ANIOINGRESOMENOREDAD" ColumnName="ANIOINGRESOMENOREDAD" />
+          <ScalarProperty Name="PESOMENOREDAD" ColumnName="PESOMENOREDAD" />
+          <ScalarProperty Name="TALLAMENOREDAD" ColumnName="TALLAMENOREDAD" />
+          <ScalarProperty Name="DISCAPACIDADESMENOREDAD" ColumnName="DISCAPACIDADESMENOREDAD" />
+          <ScalarProperty Name="VACUNASMENOREDAD" ColumnName="VACUNASMENOREDAD" />
+          <ScalarProperty Name="ALIMENTACIONMENOREDAD" ColumnName="ALIMENTACIONMENOREDAD" />
+          <ScalarProperty Name="NOMBREENCARGADOMENOREDAD" ColumnName="NOMBREENCARGADOMENOREDAD" />
+          <ScalarProperty Name="SACRAMENTOMENOREDAD" ColumnName="SACRAMENTOMENOREDAD" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NINIO">
+      <EntityTypeMapping TypeName="SembrarModel.NINIO">
+        <MappingFragment StoreEntitySet="NINIO">
+          <ScalarProperty Name="IDPERSONA" ColumnName="IDPERSONA" />
+          <ScalarProperty Name="IDMENOREDAD" ColumnName="IDMENOREDAD" />
+          <ScalarProperty Name="IDNINIO" ColumnName="IDNINIO" />
+          <ScalarProperty Name="IDORIENTADOR" ColumnName="IDORIENTADOR" />
+          <ScalarProperty Name="IDREPRESENTANTE" ColumnName="IDREPRESENTANTE" />
+          <ScalarProperty Name="IDPARENTEZCO" ColumnName="IDPARENTEZCO" />
+          <ScalarProperty Name="IDALIMENTACION2" ColumnName="IDALIMENTACION2" />
+          <ScalarProperty Name="IDTIPOPERSONA" ColumnName="IDTIPOPERSONA" />
+          <ScalarProperty Name="PRIMERNOMBREPERSONA" ColumnName="PRIMERNOMBREPERSONA" />
+          <ScalarProperty Name="SEGUNDONOMBREPERSONA" ColumnName="SEGUNDONOMBREPERSONA" />
+          <ScalarProperty Name="PRIMERAPELLIDOPERSONA" ColumnName="PRIMERAPELLIDOPERSONA" />
+          <ScalarProperty Name="SEGUNDOAPELLIDOPERSONA" ColumnName="SEGUNDOAPELLIDOPERSONA" />
+          <ScalarProperty Name="GENEROPERSONA" ColumnName="GENEROPERSONA" />
+          <ScalarProperty Name="FECHANACIMIENTOPERSONA" ColumnName="FECHANACIMIENTOPERSONA" />
+          <ScalarProperty Name="CEDULAPERSONA" ColumnName="CEDULAPERSONA" />
+          <ScalarProperty Name="LUGARNACIMIENTOPERSONA" ColumnName="LUGARNACIMIENTOPERSONA" />
+          <ScalarProperty Name="DIRECCIONYSECTORPERSONA" ColumnName="DIRECCIONYSECTORPERSONA" />
+          <ScalarProperty Name="TELEFONOPERSONA" ColumnName="TELEFONOPERSONA" />
+          <ScalarProperty Name="VIVECONFAMILIAPERSONA" ColumnName="VIVECONFAMILIAPERSONA" />
+          <ScalarProperty Name="OBSERVACIONPERSONA" ColumnName="OBSERVACIONPERSONA" />
+          <ScalarProperty Name="FECHAINGRESOPROGRAMA" ColumnName="FECHAINGRESOPROGRAMA" />
+          <ScalarProperty Name="CABEZAFAMILIA" ColumnName="CABEZAFAMILIA" />
+          <ScalarProperty Name="CODIGOSADMENOREDAD" ColumnName="CODIGOSADMENOREDAD" />
+          <ScalarProperty Name="ANIOINGRESOMENOREDAD" ColumnName="ANIOINGRESOMENOREDAD" />
+          <ScalarProperty Name="PESOMENOREDAD" ColumnName="PESOMENOREDAD" />
+          <ScalarProperty Name="TALLAMENOREDAD" ColumnName="TALLAMENOREDAD" />
+          <ScalarProperty Name="DISCAPACIDADESMENOREDAD" ColumnName="DISCAPACIDADESMENOREDAD" />
+          <ScalarProperty Name="VACUNASMENOREDAD" ColumnName="VACUNASMENOREDAD" />
+          <ScalarProperty Name="ALIMENTACIONMENOREDAD" ColumnName="ALIMENTACIONMENOREDAD" />
+          <ScalarProperty Name="NOMBREENCARGADOMENOREDAD" ColumnName="NOMBREENCARGADOMENOREDAD" />
+          <ScalarProperty Name="SACRAMENTOMENOREDAD" ColumnName="SACRAMENTOMENOREDAD" />
+          <ScalarProperty Name="TRABAJONINIO" ColumnName="TRABAJONINIO" />
+          <ScalarProperty Name="TIEMPOTRABAJONINIO" ColumnName="TIEMPOTRABAJONINIO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="OBJETIVO">
+      <EntityTypeMapping TypeName="SembrarModel.OBJETIVO">
+        <MappingFragment StoreEntitySet="OBJETIVO">
+          <ScalarProperty Name="OBJETIVOID" ColumnName="OBJETIVOID" />
+          <ScalarProperty Name="IDVISITADOMICILIAR" ColumnName="IDVISITADOMICILIAR" />
+          <ScalarProperty Name="NOMBREOBJETIVO" ColumnName="NOMBREOBJETIVO" />
+          <ScalarProperty Name="ESTADOOBJETIVO" ColumnName="ESTADOOBJETIVO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="OBJETIVO_INDICADOR">
+      <EntityTypeMapping TypeName="SembrarModel.OBJETIVO_INDICADOR">
+        <MappingFragment StoreEntitySet="OBJETIVO_INDICADOR">
+          <ScalarProperty Name="OBJETIVOID" ColumnName="OBJETIVOID" />
+          <ScalarProperty Name="IDINDICADOR" ColumnName="IDINDICADOR" />
+          <ScalarProperty Name="ESTADO" ColumnName="ESTADO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="OCUPACION">
+      <EntityTypeMapping TypeName="SembrarModel.OCUPACION">
+        <MappingFragment StoreEntitySet="OCUPACION">
+          <ScalarProperty Name="IDALIMENTACION2" ColumnName="IDALIMENTACION2" />
+          <ScalarProperty Name="NOMBRE" ColumnName="NOMBRE" />
+          <ScalarProperty Name="ESTADOTIPOPREGUNTA" ColumnName="ESTADOTIPOPREGUNTA" />
+          <ScalarProperty Name="FECHATIPOPREGUNTA" ColumnName="FECHATIPOPREGUNTA" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ORIENTADOR">
+      <EntityTypeMapping TypeName="SembrarModel.ORIENTADOR">
+        <MappingFragment StoreEntitySet="ORIENTADOR">
+          <ScalarProperty Name="IDORIENTADOR" ColumnName="IDORIENTADOR" />
+          <ScalarProperty Name="NOMBREORIENTADOR" ColumnName="NOMBREORIENTADOR" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PARENTEZCO">
+      <EntityTypeMapping TypeName="SembrarModel.PARENTEZCO">
+        <MappingFragment StoreEntitySet="PARENTEZCO">
+          <ScalarProperty Name="IDPARENTEZCO" ColumnName="IDPARENTEZCO" />
+          <ScalarProperty Name="NOMBREPARENTEZCO" ColumnName="NOMBREPARENTEZCO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PERSONA">
+      <EntityTypeMapping TypeName="SembrarModel.PERSONA">
+        <MappingFragment StoreEntitySet="PERSONA">
+          <ScalarProperty Name="IDPERSONA" ColumnName="IDPERSONA" />
+          <ScalarProperty Name="IDREPRESENTANTE" ColumnName="IDREPRESENTANTE" />
+          <ScalarProperty Name="IDPARENTEZCO" ColumnName="IDPARENTEZCO" />
+          <ScalarProperty Name="IDALIMENTACION2" ColumnName="IDALIMENTACION2" />
+          <ScalarProperty Name="IDTIPOPERSONA" ColumnName="IDTIPOPERSONA" />
+          <ScalarProperty Name="PRIMERNOMBREPERSONA" ColumnName="PRIMERNOMBREPERSONA" />
+          <ScalarProperty Name="SEGUNDONOMBREPERSONA" ColumnName="SEGUNDONOMBREPERSONA" />
+          <ScalarProperty Name="PRIMERAPELLIDOPERSONA" ColumnName="PRIMERAPELLIDOPERSONA" />
+          <ScalarProperty Name="SEGUNDOAPELLIDOPERSONA" ColumnName="SEGUNDOAPELLIDOPERSONA" />
+          <ScalarProperty Name="GENEROPERSONA" ColumnName="GENEROPERSONA" />
+          <ScalarProperty Name="FECHANACIMIENTOPERSONA" ColumnName="FECHANACIMIENTOPERSONA" />
+          <ScalarProperty Name="CEDULAPERSONA" ColumnName="CEDULAPERSONA" />
+          <ScalarProperty Name="LUGARNACIMIENTOPERSONA" ColumnName="LUGARNACIMIENTOPERSONA" />
+          <ScalarProperty Name="DIRECCIONYSECTORPERSONA" ColumnName="DIRECCIONYSECTORPERSONA" />
+          <ScalarProperty Name="TELEFONOPERSONA" ColumnName="TELEFONOPERSONA" />
+          <ScalarProperty Name="VIVECONFAMILIAPERSONA" ColumnName="VIVECONFAMILIAPERSONA" />
+          <ScalarProperty Name="OBSERVACIONPERSONA" ColumnName="OBSERVACIONPERSONA" />
+          <ScalarProperty Name="FECHAINGRESOPROGRAMA" ColumnName="FECHAINGRESOPROGRAMA" />
+          <ScalarProperty Name="CABEZAFAMILIA" ColumnName="CABEZAFAMILIA" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PERSONA_FAMILIA">
+      <EntityTypeMapping TypeName="SembrarModel.PERSONA_FAMILIA">
+        <MappingFragment StoreEntitySet="PERSONA_FAMILIA">
+          <ScalarProperty Name="IDFAMILIA" ColumnName="IDFAMILIA" />
+          <ScalarProperty Name="IDPERSONA" ColumnName="IDPERSONA" />
+          <ScalarProperty Name="FECHATIPOPREGUNTA" ColumnName="FECHATIPOPREGUNTA" />
+          <ScalarProperty Name="REFERENCIAFAMILIA" ColumnName="REFERENCIAFAMILIA" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PREGUNTA">
+      <EntityTypeMapping TypeName="SembrarModel.PREGUNTA">
+        <MappingFragment StoreEntitySet="PREGUNTA">
+          <ScalarProperty Name="IDPREGUNTA" ColumnName="IDPREGUNTA" />
+          <ScalarProperty Name="IDINDICADOR" ColumnName="IDINDICADOR" />
+          <ScalarProperty Name="IDTIPOPREGUNTA" ColumnName="IDTIPOPREGUNTA" />
+          <ScalarProperty Name="NOMBRE" ColumnName="NOMBRE" />
+          <ScalarProperty Name="ESTADOPREGUNTA" ColumnName="ESTADOPREGUNTA" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PROCESO">
+      <EntityTypeMapping TypeName="SembrarModel.PROCESO">
+        <MappingFragment StoreEntitySet="PROCESO">
+          <ScalarProperty Name="IDPROCESO" ColumnName="IDPROCESO" />
+          <ScalarProperty Name="IDORIENTADOR" ColumnName="IDORIENTADOR" />
+          <ScalarProperty Name="NOMBREPROCESO" ColumnName="NOMBREPROCESO" />
+          <ScalarProperty Name="ESTADO" ColumnName="ESTADO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PROCESO_OBJETIVO">
+      <EntityTypeMapping TypeName="SembrarModel.PROCESO_OBJETIVO">
+        <MappingFragment StoreEntitySet="PROCESO_OBJETIVO">
+          <ScalarProperty Name="IDPROCESO" ColumnName="IDPROCESO" />
+          <ScalarProperty Name="OBJETIVOID" ColumnName="OBJETIVOID" />
+          <ScalarProperty Name="ESTADOPROCESOBJETIVO" ColumnName="ESTADOPROCESOBJETIVO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="REPRESENTANTE">
+      <EntityTypeMapping TypeName="SembrarModel.REPRESENTANTE">
+        <MappingFragment StoreEntitySet="REPRESENTANTE">
+          <ScalarProperty Name="IDREPRESENTANTE" ColumnName="IDREPRESENTANTE" />
+          <ScalarProperty Name="IDORIENTADOR" ColumnName="IDORIENTADOR" />
+          <ScalarProperty Name="IDPERSONA" ColumnName="IDPERSONA" />
+          <ScalarProperty Name="ANIOLECTIVOREPRESENTANTE" ColumnName="ANIOLECTIVOREPRESENTANTE" />
+          <ScalarProperty Name="REFERENCIAREPRESENTANTE" ColumnName="REFERENCIAREPRESENTANTE" />
+          <ScalarProperty Name="RELACIONINIOREPRESENTANTE" ColumnName="RELACIONINIOREPRESENTANTE" />
+          <ScalarProperty Name="CODIGOSAD1" ColumnName="CODIGOSAD1" />
+          <ScalarProperty Name="CODIGOSAD2" ColumnName="CODIGOSAD2" />
+          <ScalarProperty Name="CODIGOSAD3" ColumnName="CODIGOSAD3" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RESPUESTA">
+      <EntityTypeMapping TypeName="SembrarModel.RESPUESTA">
+        <MappingFragment StoreEntitySet="RESPUESTA">
+          <ScalarProperty Name="IDRESPUESTA" ColumnName="IDRESPUESTA" />
+          <ScalarProperty Name="IDPREGUNTA" ColumnName="IDPREGUNTA" />
+          <ScalarProperty Name="NOMBRE" ColumnName="NOMBRE" />
+          <ScalarProperty Name="PUNTAJE" ColumnName="PUNTAJE" />
+          <ScalarProperty Name="ESTADORESPUESTA" ColumnName="ESTADORESPUESTA" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RESPUESTA_INDICADOR">
+      <EntityTypeMapping TypeName="SembrarModel.RESPUESTA_INDICADOR">
+        <MappingFragment StoreEntitySet="RESPUESTA_INDICADOR">
+          <ScalarProperty Name="IDRESPUESTAINDICADOR" ColumnName="IDRESPUESTAINDICADOR" />
+          <ScalarProperty Name="IDPREGUNTA" ColumnName="IDPREGUNTA" />
+          <ScalarProperty Name="IDINDICADOR" ColumnName="IDINDICADOR" />
+          <ScalarProperty Name="IDRESPUESTA" ColumnName="IDRESPUESTA" />
+          <ScalarProperty Name="IDPERSONA" ColumnName="IDPERSONA" />
+          <ScalarProperty Name="PUNTAJE" ColumnName="PUNTAJE" />
+          <ScalarProperty Name="OBSERVACIONCERTIFICADOMEDICO" ColumnName="OBSERVACIONCERTIFICADOMEDICO" />
+          <ScalarProperty Name="FECHARESPUESTAINDICADOR" ColumnName="FECHARESPUESTAINDICADOR" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="SembrarModel.sysdiagrams">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TIPOFAMILIA">
+      <EntityTypeMapping TypeName="SembrarModel.TIPOFAMILIA">
+        <MappingFragment StoreEntitySet="TIPOFAMILIA">
+          <ScalarProperty Name="IDTIPOFAMILIA" ColumnName="IDTIPOFAMILIA" />
+          <ScalarProperty Name="NOMBRE" ColumnName="NOMBRE" />
+          <ScalarProperty Name="ESTADO" ColumnName="ESTADO" />
+          <ScalarProperty Name="FECHA" ColumnName="FECHA" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TIPOPERSONA">
+      <EntityTypeMapping TypeName="SembrarModel.TIPOPERSONA">
+        <MappingFragment StoreEntitySet="TIPOPERSONA">
+          <ScalarProperty Name="IDTIPOPERSONA" ColumnName="IDTIPOPERSONA" />
+          <ScalarProperty Name="NOMBRETIPOPERSONA" ColumnName="NOMBRETIPOPERSONA" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TIPOPREGUNTA">
+      <EntityTypeMapping TypeName="SembrarModel.TIPOPREGUNTA">
+        <MappingFragment StoreEntitySet="TIPOPREGUNTA">
+          <ScalarProperty Name="IDTIPOPREGUNTA" ColumnName="IDTIPOPREGUNTA" />
+          <ScalarProperty Name="NOMBRETIPOPREGUNTA" ColumnName="NOMBRETIPOPREGUNTA" />
+          <ScalarProperty Name="ESTADOTIPOPREGUNTA" ColumnName="ESTADOTIPOPREGUNTA" />
+          <ScalarProperty Name="FECHATIPOPREGUNTA" ColumnName="FECHATIPOPREGUNTA" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="VISITADOMICILIAR">
+      <EntityTypeMapping TypeName="SembrarModel.VISITADOMICILIAR">
+        <MappingFragment StoreEntitySet="VISITADOMICILIAR">
+          <ScalarProperty Name="IDVISITADOMICILIAR" ColumnName="IDVISITADOMICILIAR" />
+          <ScalarProperty Name="IDFAMILIA" ColumnName="IDFAMILIA" />
+          <ScalarProperty Name="AREAVISITADOMICILIAR" ColumnName="AREAVISITADOMICILIAR" />
+          <ScalarProperty Name="MODALIDADVISTADOMICILIAR" ColumnName="MODALIDADVISTADOMICILIAR" />
+          <ScalarProperty Name="PERSONAREFERENCIA" ColumnName="PERSONAREFERENCIA" />
+          <ScalarProperty Name="FECHAVISITA" ColumnName="FECHAVISITA" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="TIPOPERSONA_OBJETIVO" TypeName="SembrarModel.TIPOPERSONA_OBJETIVO" StoreEntitySet="TIPOPERSONA_OBJETIVO">
+      <EndProperty Name="OBJETIVO">
+        <ScalarProperty Name="OBJETIVOID" ColumnName="OBJETIVOID" />
+      </EndProperty>
+      <EndProperty Name="TIPOPERSONA">
+        <ScalarProperty Name="IDTIPOPERSONA" ColumnName="IDTIPOPERSONA" />
+      </EndProperty>
+    </AssociationSetMapping>
+  </EntityContainerMapping>
+</Mapping>

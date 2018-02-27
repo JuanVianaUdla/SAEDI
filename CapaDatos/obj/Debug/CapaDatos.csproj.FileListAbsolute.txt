@@ -1,0 +1,361 @@
+C:\Users\Jessie\Documents\Visual Studio 2012\Projects\Sembrar\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Jessie\Documents\Visual Studio 2012\Projects\Sembrar\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Jessie\Documents\Visual Studio 2012\Projects\Sembrar\CapaDatos\bin\Debug\CapaNegocio.dll
+C:\Users\Jessie\Documents\Visual Studio 2012\Projects\Sembrar\CapaDatos\bin\Debug\CapaNegocio.pdb
+C:\Users\Jessie\Documents\Visual Studio 2012\Projects\Sembrar\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Jessie\Documents\Visual Studio 2012\Projects\Sembrar\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Jessie\Documents\Visual Studio 2012\Projects\Sembrar\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\lenin_000\Downloads\Sembrar\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\lenin_000\Downloads\Sembrar\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\lenin_000\Downloads\Sembrar\CapaDatos\bin\Debug\CapaNegocio.dll
+C:\Users\lenin_000\Downloads\Sembrar\CapaDatos\bin\Debug\CapaNegocio.pdb
+C:\Users\lenin_000\Downloads\Sembrar\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\lenin_000\Downloads\Sembrar\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\lenin_000\Downloads\Sembrar\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Daniel\Desktop\ProyectoSembrar-2016\SAEDI_UDLA-master\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\Daniel\Desktop\ProyectoSembrar-2016\SAEDI_UDLA-master\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Daniel\Desktop\ProyectoSembrar-2016\SAEDI_UDLA-master\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Daniel\Desktop\ProyectoSembrar-2016\SAEDI_UDLA-master\CapaDatos\bin\Debug\CapaNegocio.dll
+C:\Users\Daniel\Desktop\ProyectoSembrar-2016\SAEDI_UDLA-master\CapaDatos\bin\Debug\CapaNegocio.pdb
+C:\Users\Daniel\Desktop\ProyectoSembrar-2016\SAEDI_UDLA-master\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\ProyectoSembrar-2016\SAEDI_UDLA-master\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Daniel\Desktop\ProyectoSembrar-2016\SAEDI_UDLA-master\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Alex\Desktop\saedi\Nueva carpeta\SAEDI_UDLA-master\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\Alex\Desktop\saedi\Nueva carpeta\SAEDI_UDLA-master\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Alex\Desktop\saedi\Nueva carpeta\SAEDI_UDLA-master\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Alex\Desktop\saedi\Nueva carpeta\SAEDI_UDLA-master\CapaDatos\bin\Debug\CapaNegocio.dll
+C:\Users\Alex\Desktop\saedi\Nueva carpeta\SAEDI_UDLA-master\CapaDatos\bin\Debug\CapaNegocio.pdb
+C:\Users\Alex\Desktop\saedi\Nueva carpeta\SAEDI_UDLA-master\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\saedi\Nueva carpeta\SAEDI_UDLA-master\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Alex\Desktop\saedi\Nueva carpeta\SAEDI_UDLA-master\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\CAMC\Downloads\SAEDI_UDLA-master-2016-07-19\SAEDI_UDLA-master\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\CAMC\Downloads\SAEDI_UDLA-master-2016-07-19\SAEDI_UDLA-master\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\CAMC\Downloads\SAEDI_UDLA-master-2016-07-19\SAEDI_UDLA-master\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\CAMC\Downloads\SAEDI_UDLA-master-2016-07-19\SAEDI_UDLA-master\CapaDatos\bin\Debug\CapaNegocio.dll
+C:\Users\CAMC\Downloads\SAEDI_UDLA-master-2016-07-19\SAEDI_UDLA-master\CapaDatos\bin\Debug\CapaNegocio.pdb
+C:\Users\CAMC\Downloads\SAEDI_UDLA-master-2016-07-19\SAEDI_UDLA-master\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\CAMC\Downloads\SAEDI_UDLA-master-2016-07-19\SAEDI_UDLA-master\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\CAMC\Downloads\SAEDI_UDLA-master-2016-07-19\SAEDI_UDLA-master\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\lenguajes II\SAEDI_UDLA-master-2016-07-19 - Copy\SAEDI_UDLA-master\CapaDatos\bin\Debug\CapaDatos.dll.config
+D:\lenguajes II\SAEDI_UDLA-master-2016-07-19 - Copy\SAEDI_UDLA-master\CapaDatos\bin\Debug\CapaDatos.dll
+D:\lenguajes II\SAEDI_UDLA-master-2016-07-19 - Copy\SAEDI_UDLA-master\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\lenguajes II\SAEDI_UDLA-master-2016-07-19 - Copy\SAEDI_UDLA-master\CapaDatos\bin\Debug\CapaNegocio.dll
+D:\lenguajes II\SAEDI_UDLA-master-2016-07-19 - Copy\SAEDI_UDLA-master\CapaDatos\bin\Debug\CapaNegocio.pdb
+D:\lenguajes II\SAEDI_UDLA-master-2016-07-19 - Copy\SAEDI_UDLA-master\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+D:\lenguajes II\SAEDI_UDLA-master-2016-07-19 - Copy\SAEDI_UDLA-master\CapaDatos\obj\Debug\CapaDatos.dll
+D:\lenguajes II\SAEDI_UDLA-master-2016-07-19 - Copy\SAEDI_UDLA-master\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\carme\Documents\SAEDI\SAEDI_UDLA-Espinosa-Rea-Cuestionarios-AsistenciaLogros\SAEDI_UDLA-master\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\carme\Documents\SAEDI\SAEDI_UDLA-Espinosa-Rea-Cuestionarios-AsistenciaLogros\SAEDI_UDLA-master\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\carme\Documents\SAEDI\SAEDI_UDLA-Espinosa-Rea-Cuestionarios-AsistenciaLogros\SAEDI_UDLA-master\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\carme\Documents\SAEDI\SAEDI_UDLA-Espinosa-Rea-Cuestionarios-AsistenciaLogros\SAEDI_UDLA-master\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\carme\Documents\SAEDI\SAEDI_UDLA-Espinosa-Rea-Cuestionarios-AsistenciaLogros\SAEDI_UDLA-master\CapaDatos\bin\Debug\CapaNegocio.dll
+C:\Users\carme\Documents\SAEDI\SAEDI_UDLA-Espinosa-Rea-Cuestionarios-AsistenciaLogros\SAEDI_UDLA-master\CapaDatos\bin\Debug\CapaNegocio.pdb
+C:\Users\carme\Documents\SAEDI\SAEDI_UDLA-Espinosa-Rea-Cuestionarios-AsistenciaLogros\SAEDI_UDLA-master\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\carme\Documents\SAEDI\SAEDI_UDLA-Espinosa-Rea-Cuestionarios-AsistenciaLogros\SAEDI_UDLA-master\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\OneDrive - Universidad de Las Américas\Universidad\6to Semestre\Sembrar\SAEDI_UDLA-Integrado-20170403T111649Z-001\SAEDI_UDLA-Integrado\CapaDatos\bin\Debug\CapaDatos.dll.config
+D:\OneDrive - Universidad de Las Américas\Universidad\6to Semestre\Sembrar\SAEDI_UDLA-Integrado-20170403T111649Z-001\SAEDI_UDLA-Integrado\CapaDatos\bin\Debug\CapaDatos.dll
+D:\OneDrive - Universidad de Las Américas\Universidad\6to Semestre\Sembrar\SAEDI_UDLA-Integrado-20170403T111649Z-001\SAEDI_UDLA-Integrado\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\OneDrive - Universidad de Las Américas\Universidad\6to Semestre\Sembrar\SAEDI_UDLA-Integrado-20170403T111649Z-001\SAEDI_UDLA-Integrado\CapaDatos\bin\Debug\CapaNegocio.dll
+D:\OneDrive - Universidad de Las Américas\Universidad\6to Semestre\Sembrar\SAEDI_UDLA-Integrado-20170403T111649Z-001\SAEDI_UDLA-Integrado\CapaDatos\bin\Debug\CapaNegocio.pdb
+D:\OneDrive - Universidad de Las Américas\Universidad\6to Semestre\Sembrar\SAEDI_UDLA-Integrado-20170403T111649Z-001\SAEDI_UDLA-Integrado\CapaDatos\obj\Debug\CapaDatos.dll
+D:\OneDrive - Universidad de Las Américas\Universidad\6to Semestre\Sembrar\SAEDI_UDLA-Integrado-20170403T111649Z-001\SAEDI_UDLA-Integrado\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\OneDrive - Universidad de Las Américas\Universidad\6to Semestre\Sembrar\SAEDI_UDLA_03-05-2017_PatricioEspinosa\CapaDatos\bin\Debug\CapaDatos.dll.config
+D:\OneDrive - Universidad de Las Américas\Universidad\6to Semestre\Sembrar\SAEDI_UDLA_03-05-2017_PatricioEspinosa\CapaDatos\bin\Debug\CapaDatos.dll
+D:\OneDrive - Universidad de Las Américas\Universidad\6to Semestre\Sembrar\SAEDI_UDLA_03-05-2017_PatricioEspinosa\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\OneDrive - Universidad de Las Américas\Universidad\6to Semestre\Sembrar\SAEDI_UDLA_03-05-2017_PatricioEspinosa\CapaDatos\bin\Debug\CapaNegocio.dll
+D:\OneDrive - Universidad de Las Américas\Universidad\6to Semestre\Sembrar\SAEDI_UDLA_03-05-2017_PatricioEspinosa\CapaDatos\bin\Debug\CapaNegocio.pdb
+D:\OneDrive - Universidad de Las Américas\Universidad\6to Semestre\Sembrar\SAEDI_UDLA_03-05-2017_PatricioEspinosa\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+D:\OneDrive - Universidad de Las Américas\Universidad\6to Semestre\Sembrar\SAEDI_UDLA_03-05-2017_PatricioEspinosa\CapaDatos\obj\Debug\CapaDatos.dll
+D:\OneDrive - Universidad de Las Américas\Universidad\6to Semestre\Sembrar\SAEDI_UDLA_03-05-2017_PatricioEspinosa\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\carme\Desktop\PATRICIA\SAEDI_UDLA_04-05-2017_JuanViana\SAEDI_UDLA_04-05-2017_JuanViana\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\carme\Desktop\PATRICIA\SAEDI_UDLA_04-05-2017_JuanViana\SAEDI_UDLA_04-05-2017_JuanViana\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\carme\Desktop\PATRICIA\SAEDI_UDLA_04-05-2017_JuanViana\SAEDI_UDLA_04-05-2017_JuanViana\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\carme\Desktop\PATRICIA\SAEDI_UDLA_04-05-2017_JuanViana\SAEDI_UDLA_04-05-2017_JuanViana\CapaDatos\bin\Debug\CapaNegocio.dll
+C:\Users\carme\Desktop\PATRICIA\SAEDI_UDLA_04-05-2017_JuanViana\SAEDI_UDLA_04-05-2017_JuanViana\CapaDatos\bin\Debug\CapaNegocio.pdb
+C:\Users\carme\Desktop\PATRICIA\SAEDI_UDLA_04-05-2017_JuanViana\SAEDI_UDLA_04-05-2017_JuanViana\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\carme\Desktop\PATRICIA\SAEDI_UDLA_04-05-2017_JuanViana\SAEDI_UDLA_04-05-2017_JuanViana\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\carme\Desktop\PATRICIA\SAEDI_UDLA_04-05-2017_JuanViana\SAEDI_UDLA_04-05-2017_JuanViana\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\carme\Desktop\PATRICIA\SAEDI_UDLA_04-05-2017_JuanViana\SAEDI_UDLA_v2.0\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\carme\Desktop\PATRICIA\SAEDI_UDLA_04-05-2017_JuanViana\SAEDI_UDLA_v2.0\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\carme\Desktop\PATRICIA\SAEDI_UDLA_04-05-2017_JuanViana\SAEDI_UDLA_v2.0\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\carme\Desktop\PATRICIA\SAEDI_UDLA_04-05-2017_JuanViana\SAEDI_UDLA_v2.0\CapaDatos\bin\Debug\CapaNegocio.dll
+C:\Users\carme\Desktop\PATRICIA\SAEDI_UDLA_04-05-2017_JuanViana\SAEDI_UDLA_v2.0\CapaDatos\bin\Debug\CapaNegocio.pdb
+C:\Users\carme\Desktop\PATRICIA\SAEDI_UDLA_04-05-2017_JuanViana\SAEDI_UDLA_v2.0\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\carme\Desktop\PATRICIA\SAEDI_UDLA_04-05-2017_JuanViana\SAEDI_UDLA_v2.0\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\carme\Desktop\PATRICIA\SAEDI_UDLA_04-05-2017_JuanViana\SAEDI_UDLA_v2.0\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\SAEDI_UDLA_v2.0\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\SAEDI_UDLA_v2.0\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\SAEDI_UDLA_v2.0\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\SAEDI_UDLA_v2.0\CapaDatos\bin\Debug\CapaNegocio.dll
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\SAEDI_UDLA_v2.0\CapaDatos\bin\Debug\CapaNegocio.pdb
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\SAEDI_UDLA_v2.0\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\SAEDI_UDLA_v2.0\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Paulo\Documents\Visual Studio 2015\Projects\SAEDI_UDLA_v2.0\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\patri\Desktop\SAEDI_UDLA_v2.0\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\patri\Desktop\SAEDI_UDLA_v2.0\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\patri\Desktop\SAEDI_UDLA_v2.0\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\patri\Desktop\SAEDI_UDLA_v2.0\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\patri\Desktop\SAEDI_UDLA_v2.0\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\patri\Desktop\SAEDI_UDLA_v2.0\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\patri\Desktop\SAEDI_UDLA_v2.0\CapaDatos\bin\Debug\CapaNegocio.dll
+C:\Users\patri\Desktop\SAEDI_UDLA_v2.0\CapaDatos\bin\Debug\CapaNegocio.pdb
+D:\OneDrive - Universidad de Las Américas\Universidad\6to Semestre\Sembrar\SAEDI_UDLA_v2.1\SAEDI_UDLA_v2.0\CapaDatos\bin\Debug\CapaDatos.dll.config
+D:\OneDrive - Universidad de Las Américas\Universidad\6to Semestre\Sembrar\SAEDI_UDLA_v2.1\SAEDI_UDLA_v2.0\CapaDatos\bin\Debug\CapaDatos.dll
+D:\OneDrive - Universidad de Las Américas\Universidad\6to Semestre\Sembrar\SAEDI_UDLA_v2.1\SAEDI_UDLA_v2.0\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\OneDrive - Universidad de Las Américas\Universidad\6to Semestre\Sembrar\SAEDI_UDLA_v2.1\SAEDI_UDLA_v2.0\CapaDatos\bin\Debug\CapaNegocio.dll
+D:\OneDrive - Universidad de Las Américas\Universidad\6to Semestre\Sembrar\SAEDI_UDLA_v2.1\SAEDI_UDLA_v2.0\CapaDatos\bin\Debug\CapaNegocio.pdb
+D:\OneDrive - Universidad de Las Américas\Universidad\6to Semestre\Sembrar\SAEDI_UDLA_v2.1\SAEDI_UDLA_v2.0\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+D:\OneDrive - Universidad de Las Américas\Universidad\6to Semestre\Sembrar\SAEDI_UDLA_v2.1\SAEDI_UDLA_v2.0\CapaDatos\obj\Debug\CapaDatos.dll
+D:\OneDrive - Universidad de Las Américas\Universidad\6to Semestre\Sembrar\SAEDI_UDLA_v2.1\SAEDI_UDLA_v2.0\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\carme\Desktop\PATRICIA\SAEDI_UDLA_v2.0 09-05-2017\SAEDI_UDLA_v2.1\SAEDI_UDLA_v2.0\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\carme\Desktop\PATRICIA\SAEDI_UDLA_v2.0 09-05-2017\SAEDI_UDLA_v2.1\SAEDI_UDLA_v2.0\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\carme\Desktop\PATRICIA\SAEDI_UDLA_v2.0 09-05-2017\SAEDI_UDLA_v2.1\SAEDI_UDLA_v2.0\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\carme\Desktop\PATRICIA\SAEDI_UDLA_v2.0 09-05-2017\SAEDI_UDLA_v2.1\SAEDI_UDLA_v2.0\CapaDatos\bin\Debug\CapaNegocio.dll
+C:\Users\carme\Desktop\PATRICIA\SAEDI_UDLA_v2.0 09-05-2017\SAEDI_UDLA_v2.1\SAEDI_UDLA_v2.0\CapaDatos\bin\Debug\CapaNegocio.pdb
+C:\Users\carme\Desktop\PATRICIA\SAEDI_UDLA_v2.0 09-05-2017\SAEDI_UDLA_v2.1\SAEDI_UDLA_v2.0\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\carme\Desktop\PATRICIA\SAEDI_UDLA_v2.0 09-05-2017\SAEDI_UDLA_v2.1\SAEDI_UDLA_v2.0\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\carme\Desktop\PATRICIA\SAEDI_UDLA_v2.0 09-05-2017\SAEDI_UDLA_v2.1\SAEDI_UDLA_v2.0\CapaDatos\obj\Debug\CapaDatos.pdb
+E:\viana\Escritorio\SAEDI_UDLA_v2.0\CapaDatos\bin\Debug\CapaDatos.dll.config
+E:\viana\Escritorio\SAEDI_UDLA_v2.0\CapaDatos\bin\Debug\CapaDatos.dll
+E:\viana\Escritorio\SAEDI_UDLA_v2.0\CapaDatos\bin\Debug\CapaDatos.pdb
+E:\viana\Escritorio\SAEDI_UDLA_v2.0\CapaDatos\bin\Debug\CapaNegocio.dll
+E:\viana\Escritorio\SAEDI_UDLA_v2.0\CapaDatos\bin\Debug\CapaNegocio.pdb
+E:\viana\Escritorio\SAEDI_UDLA_v2.0\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+E:\viana\Escritorio\SAEDI_UDLA_v2.0\CapaDatos\obj\Debug\CapaDatos.dll
+E:\viana\Escritorio\SAEDI_UDLA_v2.0\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Papo\Documents\Visual Studio 2015\Projects\Sembrar Estable\defawefwea\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\Papo\Documents\Visual Studio 2015\Projects\Sembrar Estable\defawefwea\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Papo\Documents\Visual Studio 2015\Projects\Sembrar Estable\defawefwea\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Papo\Documents\Visual Studio 2015\Projects\Sembrar Estable\defawefwea\CapaDatos\bin\Debug\CapaNegocio.dll
+C:\Users\Papo\Documents\Visual Studio 2015\Projects\Sembrar Estable\defawefwea\CapaDatos\bin\Debug\CapaNegocio.pdb
+C:\Users\Papo\Documents\Visual Studio 2015\Projects\Sembrar Estable\defawefwea\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Papo\Documents\Visual Studio 2015\Projects\Sembrar Estable\defawefwea\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Papo\Documents\Visual Studio 2015\Projects\Sembrar Estable\defawefwea\CapaDatos\obj\Debug\CapaDatos.pdb
+E:\Documentos\SAEDI_V2.0\SembrarEstable\CapaDatos\bin\Debug\CapaDatos.dll.config
+E:\Documentos\SAEDI_V2.0\SembrarEstable\CapaDatos\bin\Debug\CapaDatos.dll
+E:\Documentos\SAEDI_V2.0\SembrarEstable\CapaDatos\bin\Debug\CapaDatos.pdb
+E:\Documentos\SAEDI_V2.0\SembrarEstable\CapaDatos\bin\Debug\CapaNegocio.dll
+E:\Documentos\SAEDI_V2.0\SembrarEstable\CapaDatos\bin\Debug\CapaNegocio.pdb
+E:\Documentos\SAEDI_V2.0\SembrarEstable\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+E:\Documentos\SAEDI_V2.0\SembrarEstable\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+E:\Documentos\SAEDI_V2.0\SembrarEstable\CapaDatos\obj\Debug\CapaDatos.dll
+E:\Documentos\SAEDI_V2.0\SembrarEstable\CapaDatos\obj\Debug\CapaDatos.pdb
+E:\Documentos\SAEDI_V3.0\SembrarEstable\CapaDatos\bin\Debug\CapaDatos.dll.config
+E:\Documentos\SAEDI_V3.0\SembrarEstable\CapaDatos\bin\Debug\CapaDatos.dll
+E:\Documentos\SAEDI_V3.0\SembrarEstable\CapaDatos\bin\Debug\CapaDatos.pdb
+E:\Documentos\SAEDI_V3.0\SembrarEstable\CapaDatos\bin\Debug\CapaNegocio.dll
+E:\Documentos\SAEDI_V3.0\SembrarEstable\CapaDatos\bin\Debug\CapaNegocio.pdb
+E:\Documentos\SAEDI_V3.0\SembrarEstable\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+E:\Documentos\SAEDI_V3.0\SembrarEstable\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+E:\Documentos\SAEDI_V3.0\SembrarEstable\CapaDatos\obj\Debug\CapaDatos.dll
+E:\Documentos\SAEDI_V3.0\SembrarEstable\CapaDatos\obj\Debug\CapaDatos.pdb
+F:\Respaldos_Juan\SAEDI_V3.0\SembrarEstable\CapaDatos\bin\Debug\CapaDatos.dll.config
+F:\Respaldos_Juan\SAEDI_V3.0\SembrarEstable\CapaDatos\bin\Debug\CapaDatos.dll
+F:\Respaldos_Juan\SAEDI_V3.0\SembrarEstable\CapaDatos\bin\Debug\CapaDatos.pdb
+F:\Respaldos_Juan\SAEDI_V3.0\SembrarEstable\CapaDatos\bin\Debug\CapaNegocio.dll
+F:\Respaldos_Juan\SAEDI_V3.0\SembrarEstable\CapaDatos\bin\Debug\CapaNegocio.pdb
+F:\Respaldos_Juan\SAEDI_V3.0\SembrarEstable\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+F:\Respaldos_Juan\SAEDI_V3.0\SembrarEstable\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+F:\Respaldos_Juan\SAEDI_V3.0\SembrarEstable\CapaDatos\obj\Debug\CapaDatos.dll
+F:\Respaldos_Juan\SAEDI_V3.0\SembrarEstable\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\carme\Documents\SAEDI\SAEDI_V3.2\SembrarEstable\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\carme\Documents\SAEDI\SAEDI_V3.2\SembrarEstable\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\carme\Documents\SAEDI\SAEDI_V3.2\SembrarEstable\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\carme\Documents\SAEDI\SAEDI_V3.2\SembrarEstable\CapaDatos\bin\Debug\CapaNegocio.dll
+C:\Users\carme\Documents\SAEDI\SAEDI_V3.2\SembrarEstable\CapaDatos\bin\Debug\CapaNegocio.pdb
+C:\Users\carme\Documents\SAEDI\SAEDI_V3.2\SembrarEstable\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\carme\Documents\SAEDI\SAEDI_V3.2\SembrarEstable\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\carme\Documents\SAEDI\SAEDI_V3.2\SembrarEstable\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\patri\Desktop\Sembrar\SembrarEstable 2.1\SembrarEstable\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\patri\Desktop\Sembrar\SembrarEstable 2.1\SembrarEstable\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\patri\Desktop\Sembrar\SembrarEstable 2.1\SembrarEstable\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Papo\Documents\Visual Studio 2015\Projects\SembrarEstable 2.1\SembrarEstable\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\Papo\Documents\Visual Studio 2015\Projects\SembrarEstable 2.1\SembrarEstable\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Papo\Documents\Visual Studio 2015\Projects\SembrarEstable 2.1\SembrarEstable\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Papo\Documents\Visual Studio 2015\Projects\SembrarEstable 2.1\SembrarEstable\CapaDatos\bin\Debug\CapaNegocio.dll
+C:\Users\Papo\Documents\Visual Studio 2015\Projects\SembrarEstable 2.1\SembrarEstable\CapaDatos\bin\Debug\CapaNegocio.pdb
+C:\Users\Papo\Documents\Visual Studio 2015\Projects\SembrarEstable 2.1\SembrarEstable\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Papo\Documents\Visual Studio 2015\Projects\SembrarEstable 2.1\SembrarEstable\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Papo\Documents\Visual Studio 2015\Projects\SembrarEstable 2.1\SembrarEstable\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\carme\Documents\SAEDI\SAEDI 20-11-2017\SembrarEstable 2.1\SembrarEstable\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\carme\Documents\SAEDI\SAEDI 20-11-2017\SembrarEstable 2.1\SembrarEstable\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\carme\Documents\SAEDI\SAEDI 20-11-2017\SembrarEstable 2.1\SembrarEstable\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\carme\Documents\SAEDI\SAEDI 20-11-2017\SembrarEstable 2.1\SembrarEstable\CapaDatos\bin\Debug\CapaNegocio.dll
+C:\Users\carme\Documents\SAEDI\SAEDI 20-11-2017\SembrarEstable 2.1\SembrarEstable\CapaDatos\bin\Debug\CapaNegocio.pdb
+C:\Users\carme\Documents\SAEDI\SAEDI 20-11-2017\SembrarEstable 2.1\SembrarEstable\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\carme\Documents\SAEDI\SAEDI 20-11-2017\SembrarEstable 2.1\SembrarEstable\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\carme\Documents\SAEDI\SAEDI 20-11-2017\SembrarEstable 2.1\SembrarEstable\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\patri\Desktop\Sembrar\Sembrar 4.2\Sembrar4.2\SembrarEstable\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\patri\Desktop\Sembrar\Sembrar 4.2\Sembrar4.2\SembrarEstable\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\patri\Desktop\Sembrar\Sembrar 4.2\Sembrar4.2\SembrarEstable\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\patri\Desktop\Sembrar\Sembrar 4.2\Sembrar4.2\SembrarEstable\CapaDatos\bin\Debug\CapaNegocio.dll
+C:\Users\patri\Desktop\Sembrar\Sembrar 4.2\Sembrar4.2\SembrarEstable\CapaDatos\bin\Debug\CapaNegocio.pdb
+C:\Users\patri\Desktop\Sembrar\Sembrar 4.2\Sembrar4.2\SembrarEstable\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\patri\Desktop\Sembrar\Sembrar 4.2\Sembrar4.2\SembrarEstable\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\patri\Desktop\Sembrar\Sembrar 4.2\Sembrar4.2\SembrarEstable\CapaDatos\obj\Debug\CapaDatos.pdb
+E:\JuanMaViana\Documentos\SAEDI\Sembrar 4.3\Sembrar4.3\SembrarEstable 4.3\CapaDatos\bin\Debug\CapaDatos.dll.config
+E:\JuanMaViana\Documentos\SAEDI\Sembrar 4.3\Sembrar4.3\SembrarEstable 4.3\CapaDatos\bin\Debug\CapaDatos.dll
+E:\JuanMaViana\Documentos\SAEDI\Sembrar 4.3\Sembrar4.3\SembrarEstable 4.3\CapaDatos\bin\Debug\CapaDatos.pdb
+E:\JuanMaViana\Documentos\SAEDI\Sembrar 4.3\Sembrar4.3\SembrarEstable 4.3\CapaDatos\bin\Debug\CapaNegocio.dll
+E:\JuanMaViana\Documentos\SAEDI\Sembrar 4.3\Sembrar4.3\SembrarEstable 4.3\CapaDatos\bin\Debug\CapaNegocio.pdb
+E:\JuanMaViana\Documentos\SAEDI\Sembrar 4.3\Sembrar4.3\SembrarEstable 4.3\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+E:\JuanMaViana\Documentos\SAEDI\Sembrar 4.3\Sembrar4.3\SembrarEstable 4.3\CapaDatos\obj\Debug\CapaDatos.dll
+E:\JuanMaViana\Documentos\SAEDI\Sembrar 4.3\Sembrar4.3\SembrarEstable 4.3\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\carme\Desktop\PATRICIA\Sembrar 4.3\SembrarEstable 4.3\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\carme\Desktop\PATRICIA\Sembrar 4.3\SembrarEstable 4.3\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\carme\Desktop\PATRICIA\Sembrar 4.3\SembrarEstable 4.3\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\carme\Desktop\PATRICIA\Sembrar 4.3\SembrarEstable 4.3\CapaDatos\bin\Debug\CapaNegocio.dll
+C:\Users\carme\Desktop\PATRICIA\Sembrar 4.3\SembrarEstable 4.3\CapaDatos\bin\Debug\CapaNegocio.pdb
+C:\Users\carme\Desktop\PATRICIA\Sembrar 4.3\SembrarEstable 4.3\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\carme\Desktop\PATRICIA\Sembrar 4.3\SembrarEstable 4.3\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\carme\Desktop\PATRICIA\Sembrar 4.3\SembrarEstable 4.3\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Papo\Documents\Visual Studio 2015\Projects\Sembrar 4.4\Sembrar 4.4\SembrarEstable 4.3\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\Papo\Documents\Visual Studio 2015\Projects\Sembrar 4.4\Sembrar 4.4\SembrarEstable 4.3\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Papo\Documents\Visual Studio 2015\Projects\Sembrar 4.4\Sembrar 4.4\SembrarEstable 4.3\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Papo\Documents\Visual Studio 2015\Projects\Sembrar 4.4\Sembrar 4.4\SembrarEstable 4.3\CapaDatos\bin\Debug\CapaNegocio.dll
+C:\Users\Papo\Documents\Visual Studio 2015\Projects\Sembrar 4.4\Sembrar 4.4\SembrarEstable 4.3\CapaDatos\bin\Debug\CapaNegocio.pdb
+C:\Users\Papo\Documents\Visual Studio 2015\Projects\Sembrar 4.4\Sembrar 4.4\SembrarEstable 4.3\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Papo\Documents\Visual Studio 2015\Projects\Sembrar 4.4\Sembrar 4.4\SembrarEstable 4.3\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Papo\Documents\Visual Studio 2015\Projects\Sembrar 4.4\Sembrar 4.4\SembrarEstable 4.3\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\carme\Desktop\SAEDI\Sembrar 4.4\Sembrar 4.4\SembrarEstable 4.3\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\carme\Desktop\SAEDI\Sembrar 4.4\Sembrar 4.4\SembrarEstable 4.3\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\carme\Desktop\SAEDI\Sembrar 4.4\Sembrar 4.4\SembrarEstable 4.3\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\carme\Desktop\SAEDI\Sembrar 4.4\Sembrar 4.4\SembrarEstable 4.3\CapaDatos\bin\Debug\CapaNegocio.dll
+C:\Users\carme\Desktop\SAEDI\Sembrar 4.4\Sembrar 4.4\SembrarEstable 4.3\CapaDatos\bin\Debug\CapaNegocio.pdb
+C:\Users\carme\Desktop\SAEDI\Sembrar 4.4\Sembrar 4.4\SembrarEstable 4.3\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\carme\Desktop\SAEDI\Sembrar 4.4\Sembrar 4.4\SembrarEstable 4.3\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\carme\Desktop\SAEDI\Sembrar 4.4\Sembrar 4.4\SembrarEstable 4.3\CapaDatos\obj\Debug\CapaDatos.pdb
+E:\JuanMaViana\Documentos\SAEDI\SembrarEstable 4.5\SembrarEstable 4.5\CapaDatos\bin\Debug\CapaDatos.dll.config
+E:\JuanMaViana\Documentos\SAEDI\SembrarEstable 4.5\SembrarEstable 4.5\CapaDatos\bin\Debug\CapaDatos.dll
+E:\JuanMaViana\Documentos\SAEDI\SembrarEstable 4.5\SembrarEstable 4.5\CapaDatos\bin\Debug\CapaDatos.pdb
+E:\JuanMaViana\Documentos\SAEDI\SembrarEstable 4.5\SembrarEstable 4.5\CapaDatos\bin\Debug\CapaNegocio.dll
+E:\JuanMaViana\Documentos\SAEDI\SembrarEstable 4.5\SembrarEstable 4.5\CapaDatos\bin\Debug\CapaNegocio.pdb
+E:\JuanMaViana\Documentos\SAEDI\SembrarEstable 4.5\SembrarEstable 4.5\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+E:\JuanMaViana\Documentos\SAEDI\SembrarEstable 4.5\SembrarEstable 4.5\CapaDatos\obj\Debug\CapaDatos.dll
+E:\JuanMaViana\Documentos\SAEDI\SembrarEstable 4.5\SembrarEstable 4.5\CapaDatos\obj\Debug\CapaDatos.pdb
+E:\JuanMa Viana\Documents\SAEDI\SembrarEstable 5.0\SembrarEstable 5.0\CapaDatos\bin\Debug\CapaDatos.dll.config
+E:\JuanMa Viana\Documents\SAEDI\SembrarEstable 5.0\SembrarEstable 5.0\CapaDatos\bin\Debug\CapaDatos.dll
+E:\JuanMa Viana\Documents\SAEDI\SembrarEstable 5.0\SembrarEstable 5.0\CapaDatos\bin\Debug\CapaDatos.pdb
+E:\JuanMa Viana\Documents\SAEDI\SembrarEstable 5.0\SembrarEstable 5.0\CapaDatos\bin\Debug\CapaNegocio.dll
+E:\JuanMa Viana\Documents\SAEDI\SembrarEstable 5.0\SembrarEstable 5.0\CapaDatos\bin\Debug\CapaNegocio.pdb
+E:\JuanMa Viana\Documents\SAEDI\SembrarEstable 5.0\SembrarEstable 5.0\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+E:\JuanMa Viana\Documents\SAEDI\SembrarEstable 5.0\SembrarEstable 5.0\CapaDatos\obj\Debug\CapaDatos.dll
+E:\JuanMa Viana\Documents\SAEDI\SembrarEstable 5.0\SembrarEstable 5.0\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\carme\Desktop\PATRICIA\SembrarEstable 5.0\SembrarEstable 5.0\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\carme\Desktop\PATRICIA\SembrarEstable 5.0\SembrarEstable 5.0\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\carme\Desktop\PATRICIA\SembrarEstable 5.0\SembrarEstable 5.0\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\carme\Desktop\PATRICIA\SembrarEstable 5.0\SembrarEstable 5.0\CapaDatos\bin\Debug\CapaNegocio.dll
+C:\Users\carme\Desktop\PATRICIA\SembrarEstable 5.0\SembrarEstable 5.0\CapaDatos\bin\Debug\CapaNegocio.pdb
+C:\Users\carme\Desktop\PATRICIA\SembrarEstable 5.0\SembrarEstable 5.0\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\carme\Desktop\PATRICIA\SembrarEstable 5.0\SembrarEstable 5.0\CapaDatos\obj\Debug\CapaDatos.pdb
+E:\JuanMaViana\Documentos\SAEDI\SembrarEstable 5.1\SembrarEstable 5.1\CapaDatos\bin\Debug\CapaDatos.dll.config
+E:\JuanMaViana\Documentos\SAEDI\SembrarEstable 5.1\SembrarEstable 5.1\CapaDatos\bin\Debug\CapaDatos.dll
+E:\JuanMaViana\Documentos\SAEDI\SembrarEstable 5.1\SembrarEstable 5.1\CapaDatos\bin\Debug\CapaDatos.pdb
+E:\JuanMaViana\Documentos\SAEDI\SembrarEstable 5.1\SembrarEstable 5.1\CapaDatos\bin\Debug\CapaNegocio.dll
+E:\JuanMaViana\Documentos\SAEDI\SembrarEstable 5.1\SembrarEstable 5.1\CapaDatos\bin\Debug\CapaNegocio.pdb
+E:\JuanMaViana\Documentos\SAEDI\SembrarEstable 5.1\SembrarEstable 5.1\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+E:\JuanMaViana\Documentos\SAEDI\SembrarEstable 5.1\SembrarEstable 5.1\CapaDatos\obj\Debug\CapaDatos.dll
+E:\JuanMaViana\Documentos\SAEDI\SembrarEstable 5.1\SembrarEstable 5.1\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\carme\Documents\SAEDI\SembrarEstable 5.2\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\carme\Documents\SAEDI\SembrarEstable 5.2\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\carme\Documents\SAEDI\SembrarEstable 5.2\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\carme\Documents\SAEDI\SembrarEstable 5.2\CapaDatos\bin\Debug\CapaNegocio.dll
+C:\Users\carme\Documents\SAEDI\SembrarEstable 5.2\CapaDatos\bin\Debug\CapaNegocio.pdb
+C:\Users\carme\Documents\SAEDI\SembrarEstable 5.2\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\carme\Documents\SAEDI\SembrarEstable 5.2\CapaDatos\obj\Debug\CapaDatos.pdb
+E:\JuanMaViana\Documentos\SAEDI\SembrarEstable 6\CapaDatos\bin\Debug\CapaDatos.dll.config
+E:\JuanMaViana\Documentos\SAEDI\SembrarEstable 6\CapaDatos\bin\Debug\CapaDatos.dll
+E:\JuanMaViana\Documentos\SAEDI\SembrarEstable 6\CapaDatos\bin\Debug\CapaDatos.pdb
+E:\JuanMaViana\Documentos\SAEDI\SembrarEstable 6\CapaDatos\bin\Debug\CapaNegocio.dll
+E:\JuanMaViana\Documentos\SAEDI\SembrarEstable 6\CapaDatos\bin\Debug\CapaNegocio.pdb
+E:\JuanMaViana\Documentos\SAEDI\SembrarEstable 6\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+E:\JuanMaViana\Documentos\SAEDI\SembrarEstable 6\CapaDatos\obj\Debug\CapaDatos.dll
+E:\JuanMaViana\Documentos\SAEDI\SembrarEstable 6\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Papo\Documents\Visual Studio 2015\Projects\SembrarEstable 6.1\SembrarEstable 6\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\Papo\Documents\Visual Studio 2015\Projects\SembrarEstable 6.1\SembrarEstable 6\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Papo\Documents\Visual Studio 2015\Projects\SembrarEstable 6.1\SembrarEstable 6\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Papo\Documents\Visual Studio 2015\Projects\SembrarEstable 6.1\SembrarEstable 6\CapaDatos\bin\Debug\CapaNegocio.dll
+C:\Users\Papo\Documents\Visual Studio 2015\Projects\SembrarEstable 6.1\SembrarEstable 6\CapaDatos\bin\Debug\CapaNegocio.pdb
+C:\Users\Papo\Documents\Visual Studio 2015\Projects\SembrarEstable 6.1\SembrarEstable 6\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Papo\Documents\Visual Studio 2015\Projects\SembrarEstable 6.1\SembrarEstable 6\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Papo\Documents\Visual Studio 2015\Projects\SembrarEstable 6.1\SembrarEstable 6\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\patri\Desktop\Sembrar\SembrarEstable 6.3\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\patri\Desktop\Sembrar\SembrarEstable 6.3\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\patri\Desktop\Sembrar\SembrarEstable 6.3\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\patri\Desktop\Sembrar\SembrarEstable 6.3\CapaDatos\bin\Debug\CapaNegocio.dll
+C:\Users\patri\Desktop\Sembrar\SembrarEstable 6.3\CapaDatos\bin\Debug\CapaNegocio.pdb
+C:\Users\patri\Desktop\Sembrar\SembrarEstable 6.3\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\patri\Desktop\Sembrar\SembrarEstable 6.3\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\patri\Desktop\Sembrar\SembrarEstable 6.3\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\carme\Documents\SAEDI\Sembrar Final\SembrarEstable 6.3\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\carme\Documents\SAEDI\Sembrar Final\SembrarEstable 6.3\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\carme\Documents\SAEDI\Sembrar Final\SembrarEstable 6.3\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\carme\Documents\SAEDI\Sembrar Final\SembrarEstable 6.3\CapaDatos\bin\Debug\CapaNegocio.dll
+C:\Users\carme\Documents\SAEDI\Sembrar Final\SembrarEstable 6.3\CapaDatos\bin\Debug\CapaNegocio.pdb
+C:\Users\carme\Documents\SAEDI\Sembrar Final\SembrarEstable 6.3\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\carme\Documents\SAEDI\Sembrar Final\SembrarEstable 6.3\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\carme\Documents\SAEDI\Sembrar Final\SembrarEstable 6.3\CapaDatos\obj\Debug\CapaDatos.pdb
+E:\JuanMa Viana\Documents\SAEDI\Sembrar_FINAL\CapaDatos\bin\Debug\CapaDatos.dll.config
+E:\JuanMa Viana\Documents\SAEDI\Sembrar_FINAL\CapaDatos\bin\Debug\CapaDatos.dll
+E:\JuanMa Viana\Documents\SAEDI\Sembrar_FINAL\CapaDatos\bin\Debug\CapaDatos.pdb
+E:\JuanMa Viana\Documents\SAEDI\Sembrar_FINAL\CapaDatos\bin\Debug\CapaNegocio.dll
+E:\JuanMa Viana\Documents\SAEDI\Sembrar_FINAL\CapaDatos\bin\Debug\CapaNegocio.pdb
+E:\JuanMa Viana\Documents\SAEDI\Sembrar_FINAL\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+E:\JuanMa Viana\Documents\SAEDI\Sembrar_FINAL\CapaDatos\obj\Debug\CapaDatos.dll
+E:\JuanMa Viana\Documents\SAEDI\Sembrar_FINAL\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Papo\Documents\SAEDI\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\Papo\Documents\SAEDI\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Papo\Documents\SAEDI\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Papo\Documents\SAEDI\CapaDatos\bin\Debug\CapaNegocio.dll
+C:\Users\Papo\Documents\SAEDI\CapaDatos\bin\Debug\CapaNegocio.pdb
+C:\Users\Papo\Documents\SAEDI\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Papo\Documents\SAEDI\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Papo\Documents\SAEDI\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\carme\Documents\SAEDI\SAEDI\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\carme\Documents\SAEDI\SAEDI\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\carme\Documents\SAEDI\SAEDI\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\carme\Documents\SAEDI\SAEDI\CapaDatos\bin\Debug\CapaNegocio.dll
+C:\Users\carme\Documents\SAEDI\SAEDI\CapaDatos\bin\Debug\CapaNegocio.pdb
+C:\Users\carme\Documents\SAEDI\SAEDI\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\carme\Documents\SAEDI\SAEDI\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\carme\Documents\SAEDI\SAEDI\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Papo\Documents\Visual Studio 2015\Projects\SAEDI\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\Papo\Documents\Visual Studio 2015\Projects\SAEDI\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Papo\Documents\Visual Studio 2015\Projects\SAEDI\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Papo\Documents\Visual Studio 2015\Projects\SAEDI\CapaDatos\bin\Debug\CapaNegocio.dll
+C:\Users\Papo\Documents\Visual Studio 2015\Projects\SAEDI\CapaDatos\bin\Debug\CapaNegocio.pdb
+C:\Users\Papo\Documents\Visual Studio 2015\Projects\SAEDI\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Papo\Documents\Visual Studio 2015\Projects\SAEDI\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Papo\Documents\Visual Studio 2015\Projects\SAEDI\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\carme\Documents\SAEDI\Enero 2018\SAEDI\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\carme\Documents\SAEDI\Enero 2018\SAEDI\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\carme\Documents\SAEDI\Enero 2018\SAEDI\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\carme\Documents\SAEDI\Enero 2018\SAEDI\CapaDatos\bin\Debug\CapaNegocio.dll
+C:\Users\carme\Documents\SAEDI\Enero 2018\SAEDI\CapaDatos\bin\Debug\CapaNegocio.pdb
+C:\Users\carme\Documents\SAEDI\Enero 2018\SAEDI\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\carme\Documents\SAEDI\Enero 2018\SAEDI\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\carme\Documents\SAEDI\Enero 2018\SAEDI\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\patri\Desktop\Sembrar\Sembrar ultimos cambios\SAEDI\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\patri\Desktop\Sembrar\Sembrar ultimos cambios\SAEDI\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\patri\Desktop\Sembrar\Sembrar ultimos cambios\SAEDI\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\patri\Desktop\Sembrar\Sembrar ultimos cambios\SAEDI\CapaDatos\bin\Debug\CapaNegocio.dll
+C:\Users\patri\Desktop\Sembrar\Sembrar ultimos cambios\SAEDI\CapaDatos\bin\Debug\CapaNegocio.pdb
+C:\Users\patri\Desktop\Sembrar\Sembrar ultimos cambios\SAEDI\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\patri\Desktop\Sembrar\Sembrar ultimos cambios\SAEDI\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\patri\Desktop\Sembrar\Sembrar ultimos cambios\SAEDI\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\carme\Documents\SAEDI\Febrero 2018\SAEDI\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\carme\Documents\SAEDI\Febrero 2018\SAEDI\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\carme\Documents\SAEDI\Febrero 2018\SAEDI\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\carme\Documents\SAEDI\Febrero 2018\SAEDI\CapaDatos\bin\Debug\CapaNegocio.dll
+C:\Users\carme\Documents\SAEDI\Febrero 2018\SAEDI\CapaDatos\bin\Debug\CapaNegocio.pdb
+C:\Users\carme\Documents\SAEDI\Febrero 2018\SAEDI\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\carme\Documents\SAEDI\Febrero 2018\SAEDI\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\carme\Documents\SAEDI\Febrero 2018\SAEDI\CapaDatos\obj\Debug\CapaDatos.pdb
+E:\JuanMaViana\Documentos\SAEDI_FINAL\CapaDatos\bin\Debug\CapaDatos.dll.config
+E:\JuanMaViana\Documentos\SAEDI_FINAL\CapaDatos\bin\Debug\CapaDatos.dll
+E:\JuanMaViana\Documentos\SAEDI_FINAL\CapaDatos\bin\Debug\CapaDatos.pdb
+E:\JuanMaViana\Documentos\SAEDI_FINAL\CapaDatos\bin\Debug\CapaNegocio.dll
+E:\JuanMaViana\Documentos\SAEDI_FINAL\CapaDatos\bin\Debug\CapaNegocio.pdb
+E:\JuanMaViana\Documentos\SAEDI_FINAL\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+E:\JuanMaViana\Documentos\SAEDI_FINAL\CapaDatos\obj\Debug\CapaDatos.dll
+E:\JuanMaViana\Documentos\SAEDI_FINAL\CapaDatos\obj\Debug\CapaDatos.pdb
